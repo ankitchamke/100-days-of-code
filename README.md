@@ -7,8 +7,10 @@ This challenge is inspired by Alexander Kallaway’s [Alexander Kallaway](https:
 
 ---
 
-### 📅 Start Date – End Date
-**5 June, 2025** – **13 September, 2025**
+|  Start Date | End Date |
+| ------------ | ------------ |
+| 5 Jun, 2025 | 13 Sep, 2025 |
+
 
 ---
 

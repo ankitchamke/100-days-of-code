@@ -3,9 +3,8 @@
 ## 🎯 Main Target
 I will code for at least **one hour every day for the next 100 days** to improve my development skills, build real projects, and stay consistent.
 
-This challenge is inspired by Alexander Kallaway’s [Alexander Kallaway](https://github.com/Kallaway "Alexander Kallaway") #100DaysOfCode  initiative.
+This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "Alexander Kallaway")’s #100DaysOfCode initiative.
 
----
 
 |  Start Date | End Date |
 | ------------ | ------------ |
@@ -16,8 +15,8 @@ This challenge is inspired by Alexander Kallaway’s [Alexander Kallaway](https:
 
 ## 🎯 Goals
 - Build the habit of coding daily 🧠
-- Complete Scrimba's **JavaScript Course**
-- Finish 10 chapters of Python from CodeWithHarry
+- Learn Scrimba's [**Learn JavaScript Course**](https://scrimba.com/learn-javascript-c0v)
+- Finish 13 chapters of Python from [CodeWithHarry](https://youtu.be/UrsmFxEIp5k)
 - Make beginner-friendly web projects using JavaScript
 - Solve Python problems to sharpen logic and syntax
 - Deploy a Chrome extension and simple JS-based apps
@@ -29,7 +28,7 @@ This challenge is inspired by Alexander Kallaway’s [Alexander Kallaway](https:
 
 | No. | Project Title | Completed On |
 |-----|----------------|--------------|
-| 1 | Conditional Expression | [Day 1](https://github.com/ankitchamke/Python.git) |
+| 1 | Chapter-6 Conditional Expression (Py) | [Day 1](https://github.com/ankitchamke/Python.git) |
 | 2 | X | [Day 2] |
 
 
@@ -43,7 +42,7 @@ This challenge is inspired by Alexander Kallaway’s [Alexander Kallaway](https:
 **Today's Progress:**
 - Completed Chapter 6
 - Conditional Expression
-- If Else and Elif in Python..
+- If Else and Elif in Python
 - Relational Operators
 - Logical Operators
 - Elif clause.
@@ -51,8 +50,8 @@ This challenge is inspired by Alexander Kallaway’s [Alexander Kallaway](https:
 ---
 
 ### 🛠 Tools I’m Using
-- **Scrimba** – JavaScript interactive learning
 - **CodeWithHarry** – Python full course
+- **Scrimba** – JavaScript interactive learning
 - **VS Code** – Code editor
 - **Git & GitHub** – Version control and daily logs
 - **Markdown** – To maintain this log

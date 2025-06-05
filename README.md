@@ -28,8 +28,8 @@ This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "
 
 | No. | Project Title | Completed On |
 |-----|----------------|--------------|
-| 1 | Chapter-6 Conditional Expression (Py) | [Day 1](https://github.com/ankitchamke/Python.git) |
-| 2 | X | [Day 2] |
+| 1 | Chapter-6 Conditional Expression (Py) | [Day 1](https://github.com/ankitchamke/Python/blob/main/Chapter%206/image.png) |
+| 2 |  | Day 2 |
 
 
 *(This list will grow as the challenge progresses...)*

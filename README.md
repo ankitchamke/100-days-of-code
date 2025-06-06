@@ -29,7 +29,7 @@ This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "
 | No. | Project Title | Completed On |
 |-----|----------------|--------------|
 | 1 | Chapter-6 Conditional Expression (Py) | [Day 1](https://github.com/ankitchamke/Python/blob/main/Chapter%206/image.png) |
-| 2 |  | Day 2 |
+| 2 | Day 1 of JavaScript Learned basics (Js) | [Day 2](https://github.com/ankitchamke/JavaScript/tree/main/Day%201) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -48,6 +48,17 @@ This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "
 - Elif clause.
 
 ---
+
+### Day 2: June 6, 2025 (Friday)
+**Today's Progress:**
+Learned JavaScript basics 
+-variables 
+-math operations
+-functions
+-simple DOM events using onclick
+  
+---
+
 
 ### 🛠 Tools I’m Using
 - **CodeWithHarry** – Python full course

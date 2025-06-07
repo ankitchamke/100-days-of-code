@@ -30,6 +30,7 @@ This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "
 |-----|----------------|--------------|
 | 1 | Chapter-6 Conditional Expression (Py) | [Day 1](https://github.com/ankitchamke/Python/blob/main/Chapter%206/image.png) |
 | 2 | Day 1 of JavaScript Learned basics (Js) | [Day 2](https://github.com/ankitchamke/JavaScript/tree/main/Day%201) |
+| 2 | Chapter-7 Loops in Python (Py) | [Day 3](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -52,10 +53,23 @@ This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "
 ### Day 2: June 6, 2025 (Friday)
 **Today's Progress:**
 Learned JavaScript basics 
--variables 
--math operations
--functions
--simple DOM events using onclick
+- variables 
+- math operations
+- functions
+- simple DOM events using onclick
+  
+---
+
+### Day 3: June 7, 2025 (Saturday)
+**Today's Progress:**
+Learned Python loops 
+- while
+- for
+- range()
+- loop else
+- control statements (break, continue, pass)
+
+Solved half of the practice set including a prime number , sum of natural number etc.
   
 ---
 

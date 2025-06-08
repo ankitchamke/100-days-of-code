@@ -30,7 +30,8 @@ This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "
 |-----|----------------|--------------|
 | 1 | Chapter-6 Conditional Expression (Py) | [Day 1](https://github.com/ankitchamke/Python/blob/main/Chapter%206/image.png) |
 | 2 | Day 1 of JavaScript Learned basics (Js) | [Day 2](https://github.com/ankitchamke/JavaScript/tree/main/Day%201) |
-| 2 | Chapter-7 Loops in Python (Py) | [Day 3](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
+| 3 | Chapter-7 Loops in Python (Py) | [Day 3](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
+| 4 | Day 2 Practiced DOM manipulation and string handling in (Js) | [Day 4](https://github.com/ankitchamke/JavaScript/blob/main/Day%202/Challenges.js) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -73,6 +74,16 @@ Solved half of the practice set including a prime number , sum of natural number
   
 ---
 
+### Day 4: June 8, 2025 (Sunday)
+**Today's Progress:**
+- Practiced DOM manipulation
+- String handling in Js
+- Updated HTML with innerText
+- Learned string concatenation
+- Variable incrementing
+- Created interactive click functions
+
+---
 
 ### 🛠 Tools I’m Using
 - **CodeWithHarry** – Python full course

@@ -5,6 +5,8 @@ I will code for at least **one hour every day for the next 100 days** to improve
 
 This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "Alexander Kallaway")’s #100DaysOfCode initiative.
 
+which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub repo.
+
 
 |  Start Date | End Date |
 | ------------ | ------------ |
@@ -32,6 +34,7 @@ This challenge is inspired by [Alexander Kallaway](https://github.com/Kallaway "
 | 2 | Day 1 of JavaScript Learned basics (Js) | [Day 2](https://github.com/ankitchamke/JavaScript/tree/main/Day%201) |
 | 3 | Chapter-7 Loops in Python (Py) | [Day 3](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
 | 4 | Day 2 Practiced DOM manipulation and string handling in (Js) | [Day 4](https://github.com/ankitchamke/JavaScript/blob/main/Day%202/Challenges.js) |
+| 5 | Chapter-7 Loops Completed (Py) | [Day 5](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -82,6 +85,16 @@ Solved half of the practice set including a prime number , sum of natural number
 - Learned string concatenation
 - Variable incrementing
 - Created interactive click functions
+
+---
+
+### Day 5: June 9, 2025 (Monday)
+**Today's Progress:**
+Chapter 7 Completed
+- Solved Python loop challenges
+- Factorial calculator
+- Various star patterns (Skipped one complex pattern to revisit later)
+- Reverse multiplication table
 
 ---
 

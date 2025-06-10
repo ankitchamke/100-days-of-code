@@ -99,7 +99,7 @@ Chapter 7 Completed
 
 ---
 
-### Day : June 10, 2025 (Tuesday)
+### Day 6: June 10, 2025 (Tuesday)
 **Today's Progress:**
 - Practiced DOM manipulation
 - textContent

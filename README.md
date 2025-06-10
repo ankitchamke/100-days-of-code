@@ -31,10 +31,11 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | No. | Project Title | Completed On |
 |-----|----------------|--------------|
 | 1 | Chapter-6 Conditional Expression (Py) | [Day 1](https://github.com/ankitchamke/Python/blob/main/Chapter%206/image.png) |
-| 2 | Day 1 of JavaScript Learned basics (Js) | [Day 2](https://github.com/ankitchamke/JavaScript/tree/main/Day%201) |
+| 2 | Day 1 of JavaScript Learned basics (Js) | [Day 2](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Passenger%20Counter%20App/Day%201/Challenges.js) |
 | 3 | Chapter-7 Loops in Python (Py) | [Day 3](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
-| 4 | Day 2 Practiced DOM manipulation and string handling in (Js) | [Day 4](https://github.com/ankitchamke/JavaScript/blob/main/Day%202/Challenges.js) |
+| 4 | Day 2 Practiced DOM manipulation and string handling in (Js) | [Day 4](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Passenger%20Counter%20App/Day%202/Challenges.js) |
 | 5 | Chapter-7 Loops Completed (Py) | [Day 5](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
+| 6 | Day 3 Build & Deploy a [Counter App](https://sheep-counter-scrimba.netlify.app/) (Js) | [Day 6](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Passenger%20Counter%20App/Day%203/Challenges.js) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -95,6 +96,17 @@ Chapter 7 Completed
 - Factorial calculator
 - Various star patterns (Skipped one complex pattern to revisit later)
 - Reverse multiplication table
+
+---
+
+### Day : June 10, 2025 (Tuesday)
+**Today's Progress:**
+- Practiced DOM manipulation
+- textContent
+- increment/save logic
+- reset state.
+- ✅ Deployed counter app on [Netlify!](https://www.netlify.com/)
+- 🔗 [Live](https://sheep-counter-scrimba.netlify.app/)
 
 ---
 

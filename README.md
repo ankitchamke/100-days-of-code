@@ -37,6 +37,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 5 | Chapter-7 Loops Completed (Py) | [Day 5](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
 | 6 | Day 3 Build & Deploy a [Counter App](https://sheep-counter-scrimba.netlify.app/) (Js) | [Day 6](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Passenger%20Counter%20App/Day%203/Challenges.js) |
 | 7 | Chapter - 8 Practiced Python functions, default parameters & recursion | [Day 7](https://github.com/ankitchamke/Python/blob/main/Chapter%208/function.py) |
+| 8 | Day 8 - Practiced JS functions, DOM interaction, and a mini calculator | [Day 8](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%201/script.js) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -110,13 +111,23 @@ Chapter 7 Completed
 
 ---
 
-### Day 7: June 11, 2025 (Tuesday)
+  ### Day 7: June 11, 2025 (Wednesday)
 **Today's Progress:**
 - Learned Python function syntax and structure
 - Practiced user-defined functions with and without arguments
 - Explored default parameter values in functions
 - Implemented return values from functions
 - Studied recursion with factorial example
+
+---
+
+### Day 8: June 12, 2025 (Thursday)
+**Today's Progress:**
+- Practiced JS variable concatenation using + operator
+- Created basic functions to log messages and manipulate values
+- Learned how to increment/decrement a variable with custom functions
+- Rendered error messages dynamically in the DOM
+- Built a simple calculator using add, subtract, multiply, divide functions and updated results in the HTML
 
 ---
 

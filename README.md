@@ -36,8 +36,9 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 4 | Day 2 Practiced DOM manipulation and string handling in (Js) | [Day 4](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Passenger%20Counter%20App/Day%202/Challenges.js) |
 | 5 | Chapter-7 Loops Completed (Py) | [Day 5](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
 | 6 | Day 3 Build & Deploy a [Counter App](https://sheep-counter-scrimba.netlify.app/) (Js) | [Day 6](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Passenger%20Counter%20App/Day%203/Challenges.js) |
-| 7 | Chapter - 8 Practiced Python functions, default parameters & recursion | [Day 7](https://github.com/ankitchamke/Python/blob/main/Chapter%208/function.py) |
-| 8 | Day 8 - Practiced JS functions, DOM interaction, and a mini calculator | [Day 8](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%201/script.js) |
+| 7 | Chapter - 8 Practiced Python functions, default parameters & recursion (Py) | [Day 7](https://github.com/ankitchamke/Python/blob/main/Chapter%208/function.py) |
+| 8 | Day 8 - Practiced JS functions, DOM interaction, and a mini calculator (Js) | [Day 8](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%201/script.js) |
+| 9 | Chapter - 8 Practiced Python functions, recursion, and basic utility programs (Py) | [Day 9](https://github.com/ankitchamke/Python/blob/main/Chapter%208/practice-set.py) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -128,6 +129,18 @@ Chapter 7 Completed
 - Learned how to increment/decrement a variable with custom functions
 - Rendered error messages dynamically in the DOM
 - Built a simple calculator using add, subtract, multiply, divide functions and updated results in the HTML
+
+---
+
+### Day 9: June 13, 2025 (Friday)
+**Today's Progress:**
+- Practiced user-defined functions with input/output
+- Wrote a program to find the greatest of 3 numbers
+- Built a Celsius to Fahrenheit converter using functions
+- Learned how to avoid newline with print(..., end="")
+- Recursion by summing first n natural numbers
+- Created recursive star pattern printing function
+- Converted inches to centimeters using functions
 
 ---
 

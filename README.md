@@ -37,8 +37,9 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 5 | Chapter-7 Loops Completed (Py) | [Day 5](https://github.com/ankitchamke/Python/blob/main/Chapter%207/Pratice-Set.py) |
 | 6 | Day 3 Build & Deploy a [Counter App](https://sheep-counter-scrimba.netlify.app/) (Js) | [Day 6](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Passenger%20Counter%20App/Day%203/Challenges.js) |
 | 7 | Chapter - 8 Practiced Python functions, default parameters & recursion (Py) | [Day 7](https://github.com/ankitchamke/Python/blob/main/Chapter%208/function.py) |
-| 8 | Day 8 - Practiced JS functions, DOM interaction, and a mini calculator (Js) | [Day 8](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%201/script.js) |
+| 8 | Day 4 - Practiced JS functions, DOM interaction, and a mini calculator (Js) | [Day 8](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%201/script.js) |
 | 9 | Chapter - 8 Practiced Python functions, recursion, and basic utility programs (Py) | [Day 9](https://github.com/ankitchamke/Python/blob/main/Chapter%208/practice-set.py) |
+| 10 | Day 5 - Practiced repo setup, version control, GitHub Desktop & project deployment (Js) | [Day 10](https://github.com/ankitchamke/JavaScript/blob/main/Setting%20up%20a%20Local%20Dev%20Environment/REAdme.md) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -141,6 +142,18 @@ Chapter 7 Completed
 - Recursion by summing first n natural numbers
 - Created recursive star pattern printing function
 - Converted inches to centimeters using functions
+
+---
+
+### Day 10: June 14, 2025 (Saturday)
+**Today's Progress:**
+- Set up a local development environment for web projects
+- Understood the concept of repositories and version control
+- Installed & used GitHub Desktop for GUI-based Git workflow
+- Linked local repo to GitHub and managed commits with ease
+- Opened the project in VS Code for editing and debugging
+- Pushed changes from VS Code to GitHub via GitHub Desktop
+- Deployed and shared solo project using Netlify
 
 ---
 

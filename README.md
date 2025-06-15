@@ -40,6 +40,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 8 | Day 4 - Practiced JS functions, DOM interaction, and a mini calculator (Js) | [Day 8](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%201/script.js) |
 | 9 | Chapter - 8 Practiced Python functions, recursion, and basic utility programs (Py) | [Day 9](https://github.com/ankitchamke/Python/blob/main/Chapter%208/practice-set.py) |
 | 10 | Day 5 - Practiced repo setup, version control, GitHub Desktop & project deployment (Js) | [Day 10](https://github.com/ankitchamke/JavaScript/blob/main/Setting%20up%20a%20Local%20Dev%20Environment/REAdme.md) |
+| 11 | Minor Projects: Created Rock, Paper, Scissors Game (Py) | [Day 11](https://github.com/ankitchamke/Python/blob/main/Project%201-Rock%2C%20Paper%2C%20Scissor/main.py) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -154,6 +155,17 @@ Chapter 7 Completed
 - Opened the project in VS Code for editing and debugging
 - Pushed changes from VS Code to GitHub via GitHub Desktop
 - Deployed and shared solo project using Netlify
+
+---
+
+### Day 11: June 15, 2025 (Sunday)
+**Today's Progress:**
+- Built a Rock, Paper, Scissors game using Python
+- Used random.choice() for computer move generation
+- Practiced dictionaries for mapping string inputs to numeric values
+- Implemented if-elif-else logic to check win/loss conditions
+- Learned and applied game logic using number patterns
+- Tried a shortened version of win condition with math expressions
 
 ---
 

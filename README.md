@@ -41,6 +41,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 9 | Chapter - 8 Practiced Python functions, recursion, and basic utility programs (Py) | [Day 9](https://github.com/ankitchamke/Python/blob/main/Chapter%208/practice-set.py) |
 | 10 | Day 5 - Practiced repo setup, version control, GitHub Desktop & project deployment (Js) | [Day 10](https://github.com/ankitchamke/JavaScript/blob/main/Setting%20up%20a%20Local%20Dev%20Environment/REAdme.md) |
 | 11 | Minor Projects: Created Rock, Paper, Scissors Game (Py) | [Day 11](https://github.com/ankitchamke/Python/blob/main/Project%201-Rock%2C%20Paper%2C%20Scissor/main.py) |
+| 12 | Day 6 - Practiced if-else conditionals and created Blackjack logic using (Js) | [Day 12](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%206/script.js) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -166,6 +167,16 @@ Chapter 7 Completed
 - Implemented if-elif-else logic to check win/loss conditions
 - Learned and applied game logic using number patterns
 - Tried a shortened version of win condition with math expressions
+
+---
+
+### Day 12: June 16, 2025 Monday)
+**Today's Progress:**
+- Practiced JavaScript conditional logic using if, else if, and else
+- Built logic for a Blackjack card game (checking sums for 21)
+- Simulated game messages using if-else conditions
+- Wrote conditional checks for club entry and birthday card eligibility
+- Learned about Boolean variables and how they influence decision-making in functions
 
 ---
 

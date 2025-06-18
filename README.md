@@ -42,6 +42,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 10 | Day 5 - Practiced repo setup, version control, GitHub Desktop & project deployment (Js) | [Day 10](https://github.com/ankitchamke/JavaScript/blob/main/Setting%20up%20a%20Local%20Dev%20Environment/REAdme.md) |
 | 11 | Minor Projects: Created Rock, Paper, Scissors Game (Py) | [Day 11](https://github.com/ankitchamke/Python/blob/main/Project%201-Rock%2C%20Paper%2C%20Scissor/main.py) |
 | 12 | Day 6 - Practiced if-else conditionals and created Blackjack logic using (Js) | [Day 12](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%206/script.js) |
+| 13 | Practiced Python file handling using open(), write(), readline() & with (Py) | [Day 13](https://github.com/ankitchamke/Python/blob/main/Chapter%209/file.py) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -177,6 +178,16 @@ Chapter 7 Completed
 - Simulated game messages using if-else conditions
 - Wrote conditional checks for club entry and birthday card eligibility
 - Learned about Boolean variables and how they influence decision-making in functions
+
+---
+
+### Day 13: June 18, 2025 Wednesday)
+**Today's Progress:**
+- Learned how to read and write files using Python
+- Used open(), read(), readline(), and readlines() functions
+- Practiced writing to files in both write ("w") and append ("a") modes
+- Explored the with statement for automatic file closing
+- Understood how Python handles file pointers and empty line returns
 
 ---
 

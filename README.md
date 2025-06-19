@@ -43,6 +43,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 11 | Minor Projects: Created Rock, Paper, Scissors Game (Py) | [Day 11](https://github.com/ankitchamke/Python/blob/main/Project%201-Rock%2C%20Paper%2C%20Scissor/main.py) |
 | 12 | Day 6 - Practiced if-else conditionals and created Blackjack logic using (Js) | [Day 12](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%206/script.js) |
 | 13 | Practiced Python file handling using open(), write(), readline() & with (Py) | [Day 13](https://github.com/ankitchamke/Python/blob/main/Chapter%209/file.py) |
+| 14 | Day 7 - Developed Blackjack game logic using booleans, conditions, and message variables (Js) | [Day 14](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%207/script.js) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -171,7 +172,7 @@ Chapter 7 Completed
 
 ---
 
-### Day 12: June 16, 2025 Monday)
+### Day 12: June 16, 2025 (Monday)
 **Today's Progress:**
 - Practiced JavaScript conditional logic using if, else if, and else
 - Built logic for a Blackjack card game (checking sums for 21)
@@ -181,13 +182,25 @@ Chapter 7 Completed
 
 ---
 
-### Day 13: June 18, 2025 Wednesday)
+### Day 13: June 18, 2025 (Wednesday)
 **Today's Progress:**
 - Learned how to read and write files using Python
 - Used open(), read(), readline(), and readlines() functions
 - Practiced writing to files in both write ("w") and append ("a") modes
 - Explored the with statement for automatic file closing
 - Understood how Python handles file pointers and empty line returns
+
+---
+
+### Day 14: June 19, 2025 (Thursday)
+**Today's Progress:**
+- Added hasBlackJack and isAlive state tracking in the Blackjack game 🃏
+- Practiced boolean expressions and logical conditions
+- Used if-else control flow to determine game outcomes
+- Stored messages in a variable before logging
+- Started exploring basic CSS styling and linking external stylesheets
+
+**(Not done too much coding right now, but still staying consistent)**
 
 ---
 

@@ -44,6 +44,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 12 | Day 6 - Practiced if-else conditionals and created Blackjack logic using (Js) | [Day 12](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%206/script.js) |
 | 13 | Practiced Python file handling using open(), write(), readline() & with (Py) | [Day 13](https://github.com/ankitchamke/Python/blob/main/Chapter%209/file.py) |
 | 14 | Day 7 - Developed Blackjack game logic using booleans, conditions, and message variables (Js) | [Day 14](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%207/script.js) |
+| 15 | Worked with Python file handling: read/write, hi-score update, and generated multiplication tables | [Day 15](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -201,6 +202,15 @@ Chapter 7 Completed
 - Started exploring basic CSS styling and linking external stylesheets
 
 **(Not done too much coding right now, but still staying consistent)**
+
+---
+
+### Day 15: June 20, 2025 (Friday)
+**Today's Progress:**
+- Practiced reading and writing text files using Python
+- Searched for specific words in a file ("twinkle" in poem.txt)
+- Implemented a simple Hi-score tracking system using file I/O
+- Created an automated multiplication table generator from 2 to 20 and wrote each table to a separate file inside a tables/ folder
 
 ---
 

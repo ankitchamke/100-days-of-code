@@ -45,6 +45,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 13 | Practiced Python file handling using open(), write(), readline() & with (Py) | [Day 13](https://github.com/ankitchamke/Python/blob/main/Chapter%209/file.py) |
 | 14 | Day 7 - Developed Blackjack game logic using booleans, conditions, and message variables (Js) | [Day 14](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%207/script.js) |
 | 15 | Worked with Python file handling: read/write, hi-score update, and generated multiplication tables | [Day 15](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
+| 16 | Day 8 - Built more features in Blackjack game using arrays, game state rendering, and dynamic updates (Js) | [Day 16](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%208/index.js) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -211,6 +212,16 @@ Chapter 7 Completed
 - Searched for specific words in a file ("twinkle" in poem.txt)
 - Implemented a simple Hi-score tracking system using file I/O
 - Created an automated multiplication table generator from 2 to 20 and wrote each table to a separate file inside a tables/ folder
+
+---
+
+### Day 16: June 21, 2025 (Saturday)
+**Today's Progress:**
+- Continued building the Blackjack game in JavaScript
+- Refactored game logic using startGame() and renderGame() functions
+- Practiced array usage to store cards and display them dynamically
+- Created a new card drawing function newCard() to update game state
+- Explored arrays further by storing and accessing work experience entries
 
 ---
 

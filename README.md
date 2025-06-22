@@ -46,6 +46,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 14 | Day 7 - Developed Blackjack game logic using booleans, conditions, and message variables (Js) | [Day 14](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%207/script.js) |
 | 15 | Worked with Python file handling: read/write, hi-score update, and generated multiplication tables | [Day 15](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
 | 16 | Day 8 - Built more features in Blackjack game using arrays, game state rendering, and dynamic updates (Js) | [Day 16](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%208/index.js) |
+| 17 | Worked with file search, word censorship, and line tracking using Python (Py) | [Day 17](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
+
 
 *(This list will grow as the challenge progresses...)*
 
@@ -222,6 +224,15 @@ Chapter 7 Completed
 - Practiced array usage to store cards and display them dynamically
 - Created a new card drawing function newCard() to update game state
 - Explored arrays further by storing and accessing work experience entries
+
+---
+
+### Day 17: June 22, 2025 (Sunday)
+**Today's Progress:**
+- Replaced multiple banned words (e.g., "Donkey", "Sakura", "Danzo") in a text file with asterisks using string replacement
+- Wrote a program to search a log file for the word "python"
+- Extended the log file scanner to report the line number where "python" is found
+- Practiced file reading with `.read()` and `.readlines()` and conditional search logic
 
 ---
 

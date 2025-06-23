@@ -47,6 +47,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 15 | Worked with Python file handling: read/write, hi-score update, and generated multiplication tables | [Day 15](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
 | 16 | Day 8 - Built more features in Blackjack game using arrays, game state rendering, and dynamic updates (Js) | [Day 16](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%208/index.js) |
 | 17 | Worked with file search, word censorship, and line tracking using Python (Py) | [Day 17](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
+| 18 | Day 9 - Practiced JavaScript for-loops with arrays and DOM manipulation; built a simple Blackjack UI (Js) | [Day 18](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%209/Aside%20-%20Loops/script.js) |
+
 
 
 *(This list will grow as the challenge progresses...)*
@@ -121,7 +123,7 @@ Chapter 7 Completed
 
 ---
 
-  ### Day 7: June 11, 2025 (Wednesday)
+### Day 7: June 11, 2025 (Wednesday)
 **Today's Progress:**
 - Learned Python function syntax and structure
 - Practiced user-defined functions with and without arguments
@@ -233,6 +235,17 @@ Chapter 7 Completed
 - Wrote a program to search a log file for the word "python"
 - Extended the log file scanner to report the line number where "python" is found
 - Practiced file reading with `.read()` and `.readlines()` and conditional search logic
+
+---
+
+### Day 18: June 23, 2025 (Monday)
+**Today's Progress:**
+- Used `for` loops to count in custom intervals (10 to 100 in steps of 10)
+- Iterated through arrays like `messages` and `cards` using `.length` and `console.log`
+- Appended strings using a loop and rendered them to the DOM (`greetingEl.textContent`)
+- Learned how to preserve spacing while joining array values into a sentence
+- Created a simple Blackjack game logic using arrays, conditionals, and DOM updates
+- Implemented a `newCard()` function that updates game state and re-renders UI
 
 ---
 

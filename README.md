@@ -48,7 +48,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 16 | Day 8 - Built more features in Blackjack game using arrays, game state rendering, and dynamic updates (Js) | [Day 16](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%208/index.js) |
 | 17 | Worked with file search, word censorship, and line tracking using Python (Py) | [Day 17](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
 | 18 | Day 9 - Practiced JavaScript for-loops with arrays and DOM manipulation; built a simple Blackjack UI (Js) | [Day 18](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%209/Aside%20-%20Loops/script.js) |
-
+| 19 | Completed Python Chapter 9 practice set: file copy, comparison, wiping, and renaming | [Day 19](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -246,6 +246,16 @@ Chapter 7 Completed
 - Learned how to preserve spacing while joining array values into a sentence
 - Created a simple Blackjack game logic using arrays, conditionals, and DOM updates
 - Implemented a `newCard()` function that updates game state and re-renders UI
+
+---
+
+### Day 19: June 24, 2025 (Tuesday)
+**Today's Progress:**
+- Copied the contents of a file (`this.txt`) into another file (`copy-this.txt`)
+- Compared two text files to check if their contents match
+- Cleared all contents of a file using write mode (`"w"`)
+- Renamed a file by reading its content and writing it to a new file (`renamed_by_python.txt`)
+- **Completed Chapter 9** of Python, focusing on practical file handling techniques
 
 ---
 

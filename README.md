@@ -48,7 +48,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 16 | Day 8 - Built more features in Blackjack game using arrays, game state rendering, and dynamic updates (Js) | [Day 16](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%208/index.js) |
 | 17 | Worked with file search, word censorship, and line tracking using Python (Py) | [Day 17](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
 | 18 | Day 9 - Practiced JavaScript for-loops with arrays and DOM manipulation; built a simple Blackjack UI (Js) | [Day 18](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%209/Aside%20-%20Loops/script.js) |
-| 19 | Completed Python Chapter 9 practice set: file copy, comparison, wiping, and renaming | [Day 19](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
+| 19 | Completed Python Chapter 9 practice set: file copy, comparison, wiping, and renaming (Py) | [Day 19](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
+| 20 | Day 10 - Expanded Blackjack logic with `getRandomCard()`, loops, and randomness; explored function returns (Js) | [Day 20](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Blackjack%20Game/Day%2010) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -256,6 +257,19 @@ Chapter 7 Completed
 - Cleared all contents of a file using write mode (`"w"`)
 - Renamed a file by reading its content and writing it to a new file (`renamed_by_python.txt`)
 - **Completed Chapter 9** of Python, focusing on practical file handling techniques
+
+---
+
+### Day 20: June 25, 2025 (Wednesday)
+**Today's Progress:**
+- Created `getRandomCard()` to simulate card drawing logic using `Math.random()` and `Math.floor()`
+- Used conditional logic to handle face cards (J, Q, K as 10) and Ace (1 as 11)
+- Used a `for` loop to render all cards dynamically in the Blackjack game UI
+- Refactored `startGame()` and `newCard()` to use dynamic card values and push them to the array
+- Explored `Math.random()` and `Math.floor()` through dice-related examples
+- Practiced writing return-based functions:
+  - `getFastestRaceTime()` to return the shortest of two values
+  - `getTotalRaceTime()` to calculate and return combined race time
 
 ---
 

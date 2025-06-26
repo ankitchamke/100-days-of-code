@@ -50,6 +50,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 18 | Day 9 - Practiced JavaScript for-loops with arrays and DOM manipulation; built a simple Blackjack UI (Js) | [Day 18](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%209/Aside%20-%20Loops/script.js) |
 | 19 | Completed Python Chapter 9 practice set: file copy, comparison, wiping, and renaming (Py) | [Day 19](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
 | 20 | Day 10 - Expanded Blackjack logic with `getRandomCard()`, loops, and randomness; explored function returns (Js) | [Day 20](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Blackjack%20Game/Day%2010) |
+| 21 | Started Python OOP with classes, instance/class attributes, methods, and static methods | [Day 21](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/class.py) |
+
 
 
 *(This list will grow as the challenge progresses...)*
@@ -270,6 +272,17 @@ Chapter 7 Completed
 - Practiced writing return-based functions:
   - `getFastestRaceTime()` to return the shortest of two values
   - `getTotalRaceTime()` to calculate and return combined race time
+
+---
+
+### Day 21: June 26, 2025 (Thursday)
+**Today's Progress:**
+- Defined a `class Employee` with class attributes like `language` and `salary`
+- Created instances (e.g., `harry`) and accessed/modifed attributes at both class and instance levels
+- Implemented methods using `self`, such as `getInfo()` to display instance details
+- Practiced using `@staticmethod` to define a method (`greet()`) that doesn’t rely on instance or class state
+- Experimented with calling methods both via the instance and directly via the class with an instance as argument
+- Laid foundational understanding of object-oriented programming in Python
 
 ---
 

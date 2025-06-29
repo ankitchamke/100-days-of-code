@@ -50,7 +50,9 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 18 | Day 9 - Practiced JavaScript for-loops with arrays and DOM manipulation; built a simple Blackjack UI (Js) | [Day 18](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Blackjack%20Game/Day%209/Aside%20-%20Loops/script.js) |
 | 19 | Completed Python Chapter 9 practice set: file copy, comparison, wiping, and renaming (Py) | [Day 19](https://github.com/ankitchamke/Python/blob/main/Chapter%209/Practise-Set.py) |
 | 20 | Day 10 - Expanded Blackjack logic with `getRandomCard()`, loops, and randomness; explored function returns (Js) | [Day 20](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Blackjack%20Game/Day%2010) |
-| 21 | Started Python OOP with classes, instance/class attributes, methods, and static methods | [Day 21](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/class.py) |
+| 21 | Started Python OOP with classes, instance/class attributes, methods, and static methods (Py) | [Day 21](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/class.py) |
+| 22 | Completed the [Blackjack](https://github.com/ankitchamke/Blackjack-Game?tab=readme-ov-file) game with player object, UI updates, and game logic enhancements (Js) | [Day 22](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Blackjack%20Game) |
+| 23 | Began Chapter 10 Practice Set: created Programmer and Calculator classes; explored class vs instance attributes (Py) | [Day 23](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/Practice%20Set.py) |
 
 
 
@@ -283,6 +285,34 @@ Chapter 7 Completed
 - Practiced using `@staticmethod` to define a method (`greet()`) that doesn’t rely on instance or class state
 - Experimented with calling methods both via the instance and directly via the class with an instance as argument
 - Laid foundational understanding of object-oriented programming in Python
+
+---
+
+### Day 22: June 27, 2025 (Friday)
+**Today's Progress:**
+- **Completed** the [Blackjack](https://github.com/ankitchamke/Blackjack-Game?tab=readme-ov-file) game project:
+  - Integrated player object with `name` and `chips` properties
+  - Displayed player info in the UI using DOM manipulation
+  - Added conditional checks in `newCard()` to prevent drawing when game is over or Blackjack is achieved
+- Practiced logical operators:
+  - Used `&&` to control when solutions or certificates should be shown
+  - Used `||` to trigger actions based on one of multiple conditions
+- Created and interacted with JavaScript objects for real-world scenarios (like an Airbnb listing)
+- Strengthened use of loops, arrays, and object-dot notation in game rendering
+- 🔗 [Live](https://blackjack-day-22.netlify.app/)
+
+---
+
+### Day 23: June 28, 2025 (Saturday)
+**Today's Progress:**
+- Created a `Programmer` class to represent employees at Microsoft with `__init__` method for name, salary, and pin
+- Built a `Calculator` class with methods to compute:
+  - Square
+  - Cube
+  - Square root (noted a bug in `squareRoot()` due to operator precedence)
+- Explored the difference between **class attributes** and **instance attributes**:
+  - Set an instance variable `a` using `object.a = 0` and verified it overrides the class-level `a`
+- Strengthened understanding of object-oriented programming fundamentals in Python
 
 ---
 

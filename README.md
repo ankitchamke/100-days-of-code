@@ -53,7 +53,9 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 21 | Started Python OOP with classes, instance/class attributes, methods, and static methods (Py) | [Day 21](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/class.py) |
 | 22 | Completed the [Blackjack](https://github.com/ankitchamke/Blackjack-Game?tab=readme-ov-file) game with player object, UI updates, and game logic enhancements (Js) | [Day 22](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Blackjack%20Game) |
 | 23 | Began Chapter 10 Practice Set: created Programmer and Calculator classes; explored class vs instance attributes (Py) | [Day 23](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/Practice%20Set.py) |
-
+| 24 | Practiced JavaScript object usage, if-else chains, array methods, and logical operators | [Day 24](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
+| 25 | Extended Calculator class with static method and built a Train ticketing class simulation | [Day 25](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/Practice%20Set.py) |
+| 26 | Completed JavaScript Practice Set 2 with randomization, DOM manipulation, and array logic | [Day 26](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -313,6 +315,48 @@ Chapter 7 Completed
 - Explored the difference between **class attributes** and **instance attributes**:
   - Set an instance variable `a` using `object.a = 0` and verified it overrides the class-level `a`
 - Strengthened understanding of object-oriented programming fundamentals in Python
+
+---
+
+### Day 24: June 29, 2025 (Sunday)
+**Today's Progress:**
+- Created a `person` object with `name`, `age`, and `country` and built a `logData()` function to format its data
+- Wrote an `if-else` chain to determine ticket pricing logic based on age brackets (child, student, senior, etc.)
+- Used a loop to print a list of the 5 largest countries
+- Corrected an array (`largeCountries`) using:
+  - `shift()` and `unshift()` to fix the beginning
+  - `pop()` and `push()` to fix the end
+- Used the `&&` logical operator to detect "Friday the 13th" and output a spooky emoji
+
+---
+
+### Day 25: June 30, 2025 (Monday)
+**Today's Progress:**
+- Added a `@staticmethod` called `hello()` to the `Calculator` class for user greetings
+- Built a `Train` class simulating:
+  - Ticket booking (`bookTicket`)
+  - Train status (`getStatus`)
+  - Fare calculation using random prices (`getFare`)
+- Explored flexibility of the `self` parameter:
+  - Replaced `self` with alternate valid names (e.g., `slf`, `harry`) to confirm functionality remains unchanged
+- Practiced real-world class design with method behavior and dynamic data (e.g., random fare generation)
+
+---
+
+### Day 26: July 1, 2025 (Tuesday)
+**Today's Progress:**
+- Built a **Rock Paper Scissors** mini-app:
+  - Randomly selected a hand (`"rock"`, `"paper"`, or `"scissor"`) using `Math.random()` and array indexing
+- Created an **Emoji Fighter** game:
+  - Picked two random emoji fighters from an array and displayed them in a `div` when a button was clicked
+- Completed a **Fruit Sorting** challenge:
+  - Used a loop and conditionals to separate 🍎 and 🍊 into their respective shelves using DOM `textContent`
+- Strengthened use of:
+  - Random indexing from arrays
+  - Event listeners (`addEventListener`)
+  - Looping and conditionals for decision-making
+  - DOM manipulation via `getElementById` and `.textContent`
+
 
 ---
 

@@ -53,9 +53,10 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 21 | Started Python OOP with classes, instance/class attributes, methods, and static methods (Py) | [Day 21](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/class.py) |
 | 22 | Completed the [Blackjack](https://github.com/ankitchamke/Blackjack-Game?tab=readme-ov-file) game with player object, UI updates, and game logic enhancements (Js) | [Day 22](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Blackjack%20Game) |
 | 23 | Began Chapter 10 Practice Set: created Programmer and Calculator classes; explored class vs instance attributes (Py) | [Day 23](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/Practice%20Set.py) |
-| 24 | Practiced JavaScript object usage, if-else chains, array methods, and logical operators | [Day 24](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
-| 25 | Extended Calculator class with static method and built a Train ticketing class simulation | [Day 25](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/Practice%20Set.py) |
-| 26 | Completed JavaScript Practice Set 2 with randomization, DOM manipulation, and array logic | [Day 26](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
+| 24 | Practiced JavaScript object usage, if-else chains, array methods, and logical operators (Js) | [Day 24](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
+| 25 | Extended Calculator class with static method and built a Train ticketing class simulation (Py) | [Day 25](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/Practice%20Set.py) |
+| 26 | Completed JavaScript Practice Set 2 with randomization, DOM manipulation, and array logic (Js) | [Day 26](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
+| 27 | Completed Python OOP: inheritance types, `super()`, class methods, and operator overloading (Py) | [Day 27](https://github.com/ankitchamke/Python/blob/main/Chapter%2011/inheritance.py) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -357,6 +358,17 @@ Chapter 7 Completed
   - Looping and conditionals for decision-making
   - DOM manipulation via `getElementById` and `.textContent`
 
+---
+
+### Day 27: July 2, 2025 (Wednesday)
+**Today's Progress:**
+- Practiced **Single Inheritance** with an `Employee` and `Programmer` class
+- Implemented **Multiple Inheritance** combining `Employee` and `Coder` into `Programmer`
+- Explored **Multilevel Inheritance** via a chain: `Employee → Programmer → Manager`
+- Used `super()` to call parent class constructors in child class initializations
+- Applied a **Class Method** using `@classmethod` to access class-level data (`cls.a`)
+- Learned **Operator Overloading** with `__add__()` to enable custom behavior for `+` between class objects
+- Skipped `@property` decorator for now (marked to revisit later)
 
 ---
 

@@ -57,6 +57,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 25 | Extended Calculator class with static method and built a Train ticketing class simulation (Py) | [Day 25](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/Practice%20Set.py) |
 | 26 | Completed JavaScript Practice Set 2 with randomization, DOM manipulation, and array logic (Js) | [Day 26](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
 | 27 | Completed Python OOP: inheritance types, `super()`, class methods, and operator overloading (Py) | [Day 27](https://github.com/ankitchamke/Python/blob/main/Chapter%2011/inheritance.py) |
+| 28 | Started building a Chrome Extension: input capture, styling, and event handling | [Day 28](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%201/script.js) |
+
 
 
 *(This list will grow as the challenge progresses...)*
@@ -369,6 +371,26 @@ Chapter 7 Completed
 - Applied a **Class Method** using `@classmethod` to access class-level data (`cls.a`)
 - Learned **Operator Overloading** with `__add__()` to enable custom behavior for `+` between class objects
 - Skipped `@property` decorator for now (marked to revisit later)
+
+---
+
+### Day 28: July 3, 2025 (Thursday)
+**Today's Progress:**
+- Initiated a Chrome Extension project using HTML, CSS, and JavaScript
+- Created basic UI with:
+  - A text input field (`input-el`)
+  - A button to save input (`input-btn`)
+- Applied styling to match design specs:
+  - Green theme (`#5f9341`)
+  - Full-width input, padded button, consistent spacing
+- Implemented core logic in JS:
+  - Created `myLeads` array to store lead data
+  - Used `addEventListener()` to push a hardcoded link (`"www.awesomelead.com"`) to `myLeads` on button click
+- Practiced DOM interactions by:
+  - Accessing elements via `getElementById`
+  - Attaching event listeners dynamically
+- Added a box element with click event for practice (`boxEl`), logging message when clicked
+- Reviewed const vs let usage for mutable vs immutable values in e-commerce price calculation
 
 ---
 

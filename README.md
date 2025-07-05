@@ -58,7 +58,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 26 | Completed JavaScript Practice Set 2 with randomization, DOM manipulation, and array logic (Js) | [Day 26](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
 | 27 | Completed Python OOP: inheritance types, `super()`, class methods, and operator overloading (Py) | [Day 27](https://github.com/ankitchamke/Python/blob/main/Chapter%2011/inheritance.py) |
 | 28 | Started building a Chrome Extension: input capture, styling, and event handling | [Day 28](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%201/script.js) |
-
+| 29 | Learned Figma basics and designed a dark-themed hero section with heading, text, image, and CTA | [Day 29](https://github.com/user-attachments/assets/389a4991-be81-4d53-bf78-d92773035f3d) |
+| 30 | Practiced DOM manipulation: added input values to array, rendered list, and handled button clicks | [Day 30](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%202) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -391,6 +392,27 @@ Chapter 7 Completed
   - Attaching event listeners dynamically
 - Added a box element with click event for practice (`boxEl`), logging message when clicked
 - Reviewed const vs let usage for mutable vs immutable values in e-commerce price calculation
+
+---
+
+### Day 29: July 4, 2025 (Friday)
+**Today's Progress:**
+- Explored **Figma interface**, tools, and features like frames, layers, and design panel
+- Understood how to collaborate and inspect designs using developer mode
+- Practiced using **shape tools** and frame resizing
+- Designed a **hero section UI** in Figma
+  
+  <img src="https://github.com/user-attachments/assets/389a4991-be81-4d53-bf78-d92773035f3d" width="500"/>
+
+
+---
+
+### Day 30: July 5, 2025 (Saturday)
+**Today's Progress:**
+- Stored and rendered lead links from an input field using `input.value`
+- Used `ul.innerHTML` and a loop to dynamically add list items
+- Created a **Buy! button** using `innerHTML` and attached an `onclick` event
+- Rendered a thank-you message dynamically on button click
 
 ---
 

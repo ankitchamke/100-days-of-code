@@ -57,10 +57,11 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 25 | Extended Calculator class with static method and built a Train ticketing class simulation (Py) | [Day 25](https://github.com/ankitchamke/Python/blob/main/Chapter%2010/Practice%20Set.py) |
 | 26 | Completed JavaScript Practice Set 2 with randomization, DOM manipulation, and array logic (Js) | [Day 26](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%202/script.js) |
 | 27 | Completed Python OOP: inheritance types, `super()`, class methods, and operator overloading (Py) | [Day 27](https://github.com/ankitchamke/Python/blob/main/Chapter%2011/inheritance.py) |
-| 28 | Started building a Chrome Extension: input capture, styling, and event handling | [Day 28](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%201/script.js) |
-| 29 | Learned Figma basics and designed a dark-themed hero section with heading, text, image, and CTA | [Day 29](https://github.com/user-attachments/assets/389a4991-be81-4d53-bf78-d92773035f3d) |
-| 30 | Practiced DOM manipulation: added input values to array, rendered list, and handled button clicks | [Day 30](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%202) |
-| 31 | Learned grid system in UI design and applied it in Figma to create clean, structured layouts | [Day 31](https://github.com/user-attachments/assets/62a27a39-93cf-433e-a94a-d3b3582a9663) |
+| 28 | Started building a Chrome Extension: input capture, styling, and event handling (Js) | [Day 28](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%201/script.js) |
+| 29 | Learned Figma basics and designed a dark-themed hero section with heading, text, image, and CTA (UI) | [Day 29](https://github.com/user-attachments/assets/389a4991-be81-4d53-bf78-d92773035f3d) |
+| 30 | Practiced DOM manipulation: added input values to array, rendered list, and handled button clicks (Js) | [Day 30](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%202) |
+| 31 | Learned grid system in UI design and applied it in Figma to create clean, structured layouts (UI) | [Day 31](https://github.com/user-attachments/assets/62a27a39-93cf-433e-a94a-d3b3582a9663) |
+| 32 | Improved JavaScript app by using template strings, render functions, and dynamic HTML with anchor tags (Js) | [Day 32](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%203/script.js) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -424,6 +425,17 @@ Chapter 7 Completed
 - Practiced using grids in **Figma** across desktop, tablet (Surface Pro 8), and mobile (iPhone 16) frames
 - Realized that grids improve layout consistency and visual clarity in professional designs
 <img src="https://github.com/user-attachments/assets/62a27a39-93cf-433e-a94a-d3b3582a9663" width="500"/>
+
+---
+
+### Day 32: July 7, 2025 (Monday)
+**Today's Progress:**
+- Refactored code using **template strings** for cleaner HTML rendering
+- Created a `renderLeads()` function to separate logic and improve performance
+- Used **`.innerHTML` with `<a>` tags** to render clickable lead links that open in new tabs
+- Cleared the input field after saving input
+- Styled the unordered list with CSS for better UI
+- Practiced multi-line and dynamic template strings with variables like `sender` and `recipient`
 
 ---
 

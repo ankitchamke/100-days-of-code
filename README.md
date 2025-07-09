@@ -62,6 +62,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 30 | Practiced DOM manipulation: added input values to array, rendered list, and handled button clicks (Js) | [Day 30](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%202) |
 | 31 | Learned grid system in UI design and applied it in Figma to create clean, structured layouts (UI) | [Day 31](https://github.com/user-attachments/assets/62a27a39-93cf-433e-a94a-d3b3582a9663) |
 | 32 | Improved JavaScript app by using template strings, render functions, and dynamic HTML with anchor tags (Js) | [Day 32](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%203/script.js) |
+| 33 | Explored Figma color tools & learned color theory in UI/UX (UI) | [Day 33](https://github.com/user-attachments/assets/11ba1cfd-c9e3-4349-9dd7-711b641a8ebb) |
+| 34 | Learned localStorage and deployed Chrome extension (Js) | [Day 34](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%204/script.js) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -436,6 +438,43 @@ Chapter 7 Completed
 - Cleared the input field after saving input
 - Styled the unordered list with CSS for better UI
 - Practiced multi-line and dynamic template strings with variables like `sender` and `recipient`
+
+---
+
+### Day 33: 8th July (Tuesday)
+
+**Today's Progress:**
+- Learned the basics of **color theory** in UI/UX design
+- Understood how colors influence **emotions and user behavior**
+- Explored the **color wheel**:
+  - **Primary colors**: Red, Yellow, Blue
+  - **Secondary colors**: Mix of primaries (e.g., red + yellow = orange)
+  - **Tertiary colors**: Mix of primary & secondary (e.g., red + orange)
+- Studied **color models**:
+  - **RGB (Additive)** – used for digital screens
+  - **CMYK (Subtractive)** – used in print
+- Used Figma to **adjust image filters** (saturation, exposure, tint, etc.)
+
+<img src="https://github.com/user-attachments/assets/11ba1cfd-c9e3-4349-9dd7-711b641a8ebb" width="500"/>
+
+---
+
+### Day 34: 9th July (Wednesday)
+
+**Today's Progress:**
+- Learned how to **prepare and unpack a Chrome extension** locally
+- Learned `manifest.json` for the extension
+- Understood how **`localStorage`** works in JavaScript:
+  - `setItem()`, `getItem()`, `clear()` basics
+  - Data in localStorage is **persisted between sessions**
+- Practiced storing and retrieving **arrays using `JSON.stringify()` and `JSON.parse()`**
+- Used localStorage to **store saved leads in the app**
+- Verified localStorage updates and debugging through `console.log()`
+- Refactored app logic to support **data persistence**
+
+**Code Highlights:**
+- Used `localStorage.setItem("myLeads", JSON.stringify(myLeads))` to save array
+- Retrieved and parsed with `JSON.parse(localStorage.getItem("myLeads"))`
 
 ---
 

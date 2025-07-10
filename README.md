@@ -18,6 +18,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 ## 🎯 Goals
 - Build the habit of coding daily 🧠
 - Learn Scrimba's [**Learn JavaScript Course**](https://scrimba.com/learn-javascript-c0v)
+- Learn [UI/UX Design with Projects](https://youtube.com/playlist?list=PLdvOfoe7PXT0ouChAnR1nHlT8BJIo5hP_&si=46mp-RQnEta2nXKX)
 - Finish 13 chapters of Python from [CodeWithHarry](https://youtu.be/UrsmFxEIp5k)
 - Make beginner-friendly web projects using JavaScript
 - Solve Python problems to sharpen logic and syntax
@@ -64,6 +65,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 32 | Improved JavaScript app by using template strings, render functions, and dynamic HTML with anchor tags (Js) | [Day 32](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%203/script.js) |
 | 33 | Explored Figma color tools & learned color theory in UI/UX (UI) | [Day 33](https://github.com/user-attachments/assets/11ba1cfd-c9e3-4349-9dd7-711b641a8ebb) |
 | 34 | Learned localStorage and deployed Chrome extension (Js) | [Day 34](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%204/script.js) |
+| 35 | Explored shadows, blur effects, and glassmorphism in Figma (UI) | [Day 35](https://github.com/user-attachments/assets/175e57db-b0ab-46a1-9dfe-2c5e6fdac2d3) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -478,10 +480,35 @@ Chapter 7 Completed
 
 ---
 
+### Day 35: 10th July (Thursday)
+
+**Today's Progress:**
+- Learned to apply and customize **strokes**: inside, outside, center, and dashed borders.
+- Practiced using **drop shadows** and **inner shadows** to add depth.
+- Understood the difference between:
+  - **Layer blur**: affects entire element.
+  - **Background blur**: affects elements behind, ideal for glassmorphism.
+- Discovered why **overlay rectangles** are essential for proper blur effects.
+- Practiced **exporting designs** in PNG, JPG, SVG, and PDF at various resolutions (1x–3x).
+- Created a **Glassmorphism card UI** using:
+  - Gradients
+  - Background blur
+  - Shadows
+  - Border radius and strokes
+- Added and styled **text for better hierarchy** and visual clarity.
+- Used **noise texture plugin** to add subtle realism.
+- Learned best practices for **organizing & exporting UI work** for presentation and sharing.
+
+<img src="https://github.com/user-attachments/assets/175e57db-b0ab-46a1-9dfe-2c5e6fdac2d3" width="500"/>
+
+---
+
 ### 🛠 Tools I’m Using
-- **CodeWithHarry** – Python full course
-- **Scrimba** – JavaScript interactive learning
-- **VS Code** – Code editor
+- **Scrimba** – [Learn JavaScript](https://scrimba.com/learn-javascript)
+- **Ali Hassan** - [UI/UX Design For Beginners with Projects 2025](https://youtube.com/playlist?list=PLdvOfoe7PXT0ouChAnR1nHlT8BJIo5hP_&si=46mp-RQnEta2nXKX)
+- **CodeWithHarry** – [Python Tutorial For Beginners](https://youtu.be/UrsmFxEIp5k?si=FpWLqOkm1hvjSlUs)
+- **VS Code** – [Code editor](https://code.visualstudio.com/)
+- **Figma** – [User Interface design tool](https://www.figma.com/)
 - **Git & GitHub** – Version control and daily logs
 - **Markdown** – To maintain this log
 

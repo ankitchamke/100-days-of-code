@@ -66,6 +66,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 33 | Explored Figma color tools & learned color theory in UI/UX (UI) | [Day 33](https://github.com/user-attachments/assets/11ba1cfd-c9e3-4349-9dd7-711b641a8ebb) |
 | 34 | Learned localStorage and deployed Chrome extension (Js) | [Day 34](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%204/script.js) |
 | 35 | Explored shadows, blur effects, and glassmorphism in Figma (UI) | [Day 35](https://github.com/user-attachments/assets/175e57db-b0ab-46a1-9dfe-2c5e6fdac2d3) |
+| 36 | Used localStorage and delete button for lead manager | [Day 36](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%205) |
+| 37 | Explored typography fundamentals in UI/UX | [Day 37](https://github.com/user-attachments/assets/acd49cdf-e191-438f-8f45-4cbbe3345592) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -500,6 +502,34 @@ Chapter 7 Completed
 - Learned best practices for **organizing & exporting UI work** for presentation and sharing.
 
 <img src="https://github.com/user-attachments/assets/175e57db-b0ab-46a1-9dfe-2c5e6fdac2d3" width="500"/>
+
+---
+
+### Day 36: 11 July 2025 (Friday)
+
+**Today's Progress:**
+
+- Learned about truthy and falsy values in JavaScript and how they affect conditional logic.
+- Used localStorage to store and retrieve leads for the extension.
+- Checked for saved leads before rendering to avoid errors.
+- Implemented a delete button that clears both the localStorage and the UI when double-clicked.
+- Styled the delete button separately from the save button.
+
+---
+
+### Day 37: 13 July 2025 (Sunday)
+
+**Today's Progress:**
+
+- Learned the importance of typography in making designs readable and visually appealing.
+- Understood how poor typography can ruin even a well-laid-out design.
+- Studied how typography builds visual hierarchy with headings, highlights, and body text.
+- Differentiated between *typeface* (font family like Roboto, Lato) and *font* (e.g., bold, italic).
+- Explored serif vs sans-serif fonts and their appropriate usage.
+- Noted that sans-serif fonts are ideal for websites, apps, and logos due to clarity on screens.
+- Practiced adjusting font properties like size, weight, alignment, and spacing in Figma.
+  
+<img src="https://github.com/user-attachments/assets/acd49cdf-e191-438f-8f45-4cbbe3345592" width="500"/>
 
 ---
 

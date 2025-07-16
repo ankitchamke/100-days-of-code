@@ -68,6 +68,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 35 | Explored shadows, blur effects, and glassmorphism in Figma (UI) | [Day 35](https://github.com/user-attachments/assets/175e57db-b0ab-46a1-9dfe-2c5e6fdac2d3) |
 | 36 | Used localStorage and delete button for lead manager | [Day 36](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%205) |
 | 37 | Explored typography fundamentals in UI/UX | [Day 37](https://github.com/user-attachments/assets/acd49cdf-e191-438f-8f45-4cbbe3345592) |
+| 38 | Learned how function parameters improve reusability and flexibility in code | [Day 38](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%206/aside.js) |
+
 
 
 *(This list will grow as the challenge progresses...)*
@@ -530,6 +532,20 @@ Chapter 7 Completed
 - Practiced adjusting font properties like size, weight, alignment, and spacing in Figma.
   
 <img src="https://github.com/user-attachments/assets/acd49cdf-e191-438f-8f45-4cbbe3345592" width="500"/>
+
+---
+
+### Day 38: 14 July 2025 (Monday)
+
+**Today's Progress:**
+
+- Practiced writing functions with parameters to improve flexibility and reusability.
+- Created functions with multiple parameters and used template literals for cleaner syntax.
+- Learned the difference between *parameters* (placeholders) and *arguments* (actual values passed).
+- Created a basic `add()` function to sum numbers passed as arguments.
+- Built `getFirst(arr)` to return the first item in an array.
+- Refactored the lead tracker app’s `render()` function to take an array as a parameter instead of relying on a global variable.
+- Improved app maintainability by reducing direct dependencies on outer scope variables.
 
 ---
 

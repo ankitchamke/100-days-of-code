@@ -69,6 +69,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 36 | Used localStorage and delete button for lead manager | [Day 36](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%205) |
 | 37 | Explored typography fundamentals in UI/UX | [Day 37](https://github.com/user-attachments/assets/acd49cdf-e191-438f-8f45-4cbbe3345592) |
 | 38 | Learned how function parameters improve reusability and flexibility in code | [Day 38](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%206/aside.js) |
+| 39 | Practiced Figma UI basics: card design and explored Auto Layout | [Day 39](https://github.com/user-attachments/assets/17ba2486-9725-460c-b413-d92445d4f84b) |
+
 
 
 
@@ -546,6 +548,23 @@ Chapter 7 Completed
 - Built `getFirst(arr)` to return the first item in an array.
 - Refactored the lead tracker app’s `render()` function to take an array as a parameter instead of relying on a global variable.
 - Improved app maintainability by reducing direct dependencies on outer scope variables.
+
+---
+
+### Day 39: 15 July 2025 (Tuesday)
+
+**Today's Progress:**
+
+- Practiced Figma by creating a simple UI layout with cards and buttons.
+- Designed a product card UI featuring price, tag, and image.
+- Learned how to group, frame, and nest elements within desktop views.
+- Explored **Auto Layout** in Figma:
+  - Used shortcut **Shift + A** to apply it to elements.
+  - Set **layout direction** (vertical/horizontal) for cleaner spacing.
+  - Enabled **Wrap** to make text/components responsive to frame size.
+  - Adjusted spacing using **horizontal gaps**.
+- Understood that Auto Layout enhances reusability and responsiveness across device sizes.
+<img src="https://github.com/user-attachments/assets/17ba2486-9725-460c-b413-d92445d4f84b" width="500"/>
 
 ---
 

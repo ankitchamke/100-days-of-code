@@ -66,11 +66,13 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 33 | Explored Figma color tools & learned color theory in UI/UX (UI) | [Day 33](https://github.com/user-attachments/assets/11ba1cfd-c9e3-4349-9dd7-711b641a8ebb) |
 | 34 | Learned localStorage and deployed Chrome extension (Js) | [Day 34](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%204/script.js) |
 | 35 | Explored shadows, blur effects, and glassmorphism in Figma (UI) | [Day 35](https://github.com/user-attachments/assets/175e57db-b0ab-46a1-9dfe-2c5e6fdac2d3) |
-| 36 | Used localStorage and delete button for lead manager | [Day 36](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%205) |
-| 37 | Explored typography fundamentals in UI/UX | [Day 37](https://github.com/user-attachments/assets/acd49cdf-e191-438f-8f45-4cbbe3345592) |
-| 38 | Learned how function parameters improve reusability and flexibility in code | [Day 38](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%206/aside.js) |
-| 39 | Practiced Figma UI basics: card design and explored Auto Layout | [Day 39](https://github.com/user-attachments/assets/17ba2486-9725-460c-b413-d92445d4f84b) |
-
+| 36 | Used localStorage and delete button for lead manager (Js) | [Day 36](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%205) |
+| 37 | Explored typography fundamentals in UI/UX (UI) | [Day 37](https://github.com/user-attachments/assets/acd49cdf-e191-438f-8f45-4cbbe3345592) |
+| 38 | Learned how function parameters improve reusability and flexibility in code (Js) | [Day 38](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Chrome%20Extension/Day%206/aside.js) |
+| 39 | Practiced Figma UI basics: card design and explored Auto Layout (UI) | [Day 39](https://github.com/user-attachments/assets/17ba2486-9725-460c-b413-d92445d4f84b) |
+| 40 | Refactored render with parameters, added Save Tab button using Chrome API (Js) | [Day 40](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%206) |
+| 41 | Learned Figma Components, Variants & Custom Properties with Icon Integration (UI) | [Day 41](https://github.com/user-attachments/assets/50ddca68-e185-4730-8f88-52f86f527f3d) |
+| 42 | Deployed Chrome Extension: Leads Tracker with README & Install Instructions (Js) | [Day 42](https://github.com/ankitchamke/Leads-Tracker) |
 
 
 
@@ -565,6 +567,88 @@ Chapter 7 Completed
   - Adjusted spacing using **horizontal gaps**.
 - Understood that Auto Layout enhances reusability and responsiveness across device sizes.
 <img src="https://github.com/user-attachments/assets/17ba2486-9725-460c-b413-d92445d4f84b" width="500"/>
+
+---
+### Day 40: 16 July 2025 (Wednesday)
+
+**Today's Progress:**
+
+- Created a **Save Tab** button to store the current active tab’s URL using the **Chrome Extension API** (`chrome.tabs.query`).
+- Gave permission to access browser tabs using `"permissions": ["tabs"]` in `manifest.json`.
+- Refactored the `renderLeads()` function to accept a **parameter** instead of using the global `myLeads` variable. This made the code cleaner and more reusable.
+- Implemented a **double-click delete button**, which clears all saved leads from `localStorage` and the UI.
+- Practiced working with:
+  - DOM manipulation (`addEventListener`, `innerHTML`)
+  - Chrome Extensions basic setup (`manifest.json`)
+  - Data persistence with `localStorage`
+
+- Passing arguments to functions for better reusability
+- Chrome extension permissions
+- Querying browser tab details
+- Event handling (`click`, `dblclick`)
+
+---
+
+### Day 41: 17 July 2025 (Thursday)
+
+**Today's Progress:**
+
+- Practiced building **Figma components** using styled frames and turned them into reusable design elements.
+  - Shortcut used: **Ctrl + Alt + K**
+- Created **Variants** for button states:
+  - Primary (black), secondary (white), and disabled (greyed).
+  - Organized them using **Frame 1** and clearly labeled.
+- Added **custom icons** inside components (save, delete, wifi, volume) using nested frames.
+- Understood the **diamond icon system**:
+  - Main component: 4 diamonds
+  - Instances: 1 diamond
+- Learned about and used:
+  - **Boolean toggles** to show/hide icons or labels.
+  - **Instance swap property** to switch icons inside a component.
+  - Proper **naming and description** practices to keep components tidy and manageable.
+- Applied color variations and alignment for clarity.
+
+**Key Concepts:**
+- Components and Instances
+- Component Properties (Text, Boolean, Instance Swap)
+- Variants (Stateful Design)
+- Figma Asset Panel usage
+- UI Reusability and Consistency
+
+<img src="https://github.com/user-attachments/assets/50ddca68-e185-4730-8f88-52f86f527f3d" width="500"/>
+
+---
+
+### Day 42: 18 July 2025 (Friday)
+
+**Today's Progress:**
+
+- Completed and **deployed "Leads Tracker" Chrome Extension** to GitHub.
+- Developed using **HTML, CSS & JavaScript**:
+  - Input field for saving custom links.
+  - Button to save current browser tab link.
+  - Delete All button to clear local storage.
+- Functionality:
+  - Stored leads using `localStorage`.
+  - Rendered list items dynamically from saved data.
+  - Implemented `chrome.tabs` API for capturing the current active tab URL.
+- Created full **GitHub repository with README**:
+  - Includes features, screenshots, and setup instructions.
+  - Added custom icons and polished layout.
+- Wrote clear steps for how to install the extension:
+  - Download/clone repo
+  - Go to `chrome://extensions`
+  - Enable **Developer Mode**
+  - Click “Load unpacked” and select the project folder
+
+**Tech Used:**
+- JavaScript (DOM, Events, LocalStorage, chrome.tabs)
+- HTML & CSS for layout and UI design
+- Chrome Extension manifest v3
+
+🔗 GitHub Repo: [Leads Tracker](https://github.com/ankitchamke/Leads-Tracker)
+
+<img width="500" src="https://github.com/user-attachments/assets/60d53f8a-a70b-429d-9310-fdbd1d3efbb5" />
 
 ---
 

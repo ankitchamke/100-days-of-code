@@ -73,8 +73,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 40 | Refactored render with parameters, added Save Tab button using Chrome API (Js) | [Day 40](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%206) |
 | 41 | Learned Figma Components, Variants & Custom Properties with Icon Integration (UI) | [Day 41](https://github.com/user-attachments/assets/50ddca68-e185-4730-8f88-52f86f527f3d) |
 | 42 | Deployed Chrome Extension: Leads Tracker with README & Install Instructions (Js) | [Day 42](https://github.com/ankitchamke/Leads-Tracker) |
-
-
+| 43 | Practice Time Part 3: JS let/const, localStorage, array, DOM events (Js)  | [Day 43](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%203/script.js) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -649,6 +648,25 @@ Chapter 7 Completed
 🔗 GitHub Repo: [Leads Tracker](https://github.com/ankitchamke/Leads-Tracker)
 
 <img width="500" src="https://github.com/user-attachments/assets/60d53f8a-a70b-429d-9310-fdbd1d3efbb5" />
+
+---
+
+### Day 43: 19 July 2025 (Saturday)
+
+**Today's Progress:**
+
+-  Practiced `let` vs `const` in game logic and used template strings.
+-  Logged array items using a function (parameters & arguments).
+-  Worked with `localStorage` to set and fetch values.
+-  Used `addEventListener` to get object data on button click.
+-  Built `generateSentence(desc, arr)` using loop + template string.
+-  Rendered images dynamically to the DOM using `.innerHTML`.
+-  Rounded string-number prices with `Number().toFixed(2)`.
+-  Added double-click event for clearing data.
+
+**Topics Covered:** Variables, Arrays, Functions, DOM, Events, localStorage, Rounding.
+
+**Next:** Small project combining all these features.
 
 ---
 

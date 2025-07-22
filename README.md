@@ -74,6 +74,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 41 | Learned Figma Components, Variants & Custom Properties with Icon Integration (UI) | [Day 41](https://github.com/user-attachments/assets/50ddca68-e185-4730-8f88-52f86f527f3d) |
 | 42 | Deployed Chrome Extension: Leads Tracker with README & Install Instructions (Js) | [Day 42](https://github.com/ankitchamke/Leads-Tracker) |
 | 43 | Practice Time Part 3: JS let/const, localStorage, array, DOM events (Js)  | [Day 43](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%203/script.js) |
+| 44 | Figma Practice: Desktop frame, grid, logo, auto layout, and components | [Day 44](https://github.com/user-attachments/assets/dcd3fe4a-4838-4bdc-a078-126d94684725) |
+
 
 *(This list will grow as the challenge progresses...)*
 
@@ -667,6 +669,25 @@ Chapter 7 Completed
 **Topics Covered:** Variables, Arrays, Functions, DOM, Events, localStorage, Rounding.
 
 **Next:** Small project combining all these features.
+
+---
+
+### Day 44: 20 July 2025 (Sunday)
+
+**Today's Progress:**
+
+- Set up a new Figma **project** with a **Desktop frame** and renamed it to `"Landing Page Design"`.
+- Enabled a **12-column grid layout** to ensure proper structure and alignment across the design.
+- Created a **logo** using simple shapes (like circles) and applied **primary brand colors**.
+- Used **Auto Layout** for the **navigation bar**:
+  - Made elements align to the grid.
+  - Added equal spacing between nav items.
+- Inserted visual elements like **arrows/icons**, styled with **white fill** for contrast.
+- Designed a **button component** and added **variants** (e.g., filled and outline).
+- Started building a **design system** for consistent reuse and faster updates across the project.
+- Applied **basic color correction and enhancements** to the main image to match brand feel.
+
+<img width="500" src="https://github.com/user-attachments/assets/dcd3fe4a-4838-4bdc-a078-126d94684725" />
 
 ---
 

@@ -73,9 +73,9 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 40 | Refactored render with parameters, added Save Tab button using Chrome API (Js) | [Day 40](https://github.com/ankitchamke/JavaScript/tree/main/Build%20a%20Chrome%20Extension/Day%206) |
 | 41 | Learned Figma Components, Variants & Custom Properties with Icon Integration (UI) | [Day 41](https://github.com/user-attachments/assets/50ddca68-e185-4730-8f88-52f86f527f3d) |
 | 42 | Deployed Chrome Extension: Leads Tracker with README & Install Instructions (Js) | [Day 42](https://github.com/ankitchamke/Leads-Tracker) |
-| 43 | Practice Time Part 3: JS let/const, localStorage, array, DOM events (Js)  | [Day 43](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%203/script.js) |
-| 44 | Figma Practice: Desktop frame, grid, logo, auto layout, and components | [Day 44](https://github.com/user-attachments/assets/dcd3fe4a-4838-4bdc-a078-126d94684725) |
-
+| 43 | Practice Time Part 3: JS let/const, localStorage, array, DOM events (Js) | [Day 43](https://github.com/ankitchamke/JavaScript/blob/main/Practice%20Time%20-%20Part%203/script.js) |
+| 44 | Figma Practice: Desktop frame, grid, logo, auto layout, and components (UI) | [Day 44](https://github.com/user-attachments/assets/dcd3fe4a-4838-4bdc-a078-126d94684725) |
+| 45 | Firebase Setup for Mobile App (Js) | [Day 45](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Mobile%20App/Day%201/index.js) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -688,6 +688,16 @@ Chapter 7 Completed
 - Applied **basic color correction and enhancements** to the main image to match brand feel.
 
 <img width="500" src="https://github.com/user-attachments/assets/dcd3fe4a-4838-4bdc-a078-126d94684725" />
+
+---
+
+### Day 45: 21 July 2025 (Monday)
+**Today's Progress:**
+- Began transitioning the Leads Tracker from a Chrome extension to a mobile app.
+- Successfully set up a new Firebase Project for the mobile application.
+- Created and configured a new Firebase Realtime Database.
+- Configured the database environment variable in the code.
+- Refactored existing code by deleting unneeded `localStorage` related functions and the "save tab" button functionality, as the focus is now on the mobile app.
 
 ---
 

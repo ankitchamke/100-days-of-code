@@ -77,6 +77,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 44 | Figma Practice: Desktop frame, grid, logo, auto layout, and components (UI) | [Day 44](https://github.com/user-attachments/assets/dcd3fe4a-4838-4bdc-a078-126d94684725) |
 | 45 | Day 23 - Firebase Setup for Mobile App (Js) | [Day 45](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Mobile%20App/Day%201/index.js) |
 | 46 | Digital Agency Website: Client Logos & Projects (UI) | [Day 46](https://github.com/user-attachments/assets/ae9ce4e7-4ac4-4760-8533-69453144a161) |
+| 47 | Leads Tracker App: Firebase Data Handling | [Day 47](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Mobile%20App/Day%202/index.js) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -710,6 +711,17 @@ Chapter 7 Completed
 - Focused on creating a clean, visually appealing design for both sections, utilizing appropriate HTML structure and initial CSS styling.
 
 <img width="500" src="https://github.com/user-attachments/assets/ae9ce4e7-4ac4-4760-8533-69453144a161" />
+
+---
+
+### Day 47: 23 July 2025 (Wednesday)
+**Today's Progress:**
+- Deepened Firebase integration for the Leads Tracker app by importing `ref`, `push`, and `onValue` functions.
+- Established a database reference to the "leads" path in Firebase Realtime Database.
+- Implemented the `onValue` listener to retrieve and log real-time snapshots of the database.
+- Converted the Firebase snapshot object into an array using `Object.values()` to prepare data for rendering.
+- Integrated the `push` function to add new lead entries from the input field directly to the Firebase database.
+- Continued refactoring by removing commented-out experimental Firebase code related to "birthdays" and "products," streamlining the main codebase for leads.
 
 ---
 

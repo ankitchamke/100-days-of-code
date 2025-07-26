@@ -78,6 +78,9 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 45 | Day 23 - Firebase Setup for Mobile App (Js) | [Day 45](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Mobile%20App/Day%201/index.js) |
 | 46 | Digital Agency Website: Client Logos & Projects (UI) | [Day 46](https://github.com/user-attachments/assets/ae9ce4e7-4ac4-4760-8533-69453144a161) |
 | 47 | Leads Tracker App: Firebase Data Handling | [Day 47](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Mobile%20App/Day%202/index.js) |
+| 48 | Digital Agency Website: Testimonials & CTA | [Day 48](https://github.com/user-attachments/assets/25bb7758-349f-407a-baf0-217629972df2) |
+| 49 | [Leads Tracker App](https://ankitchamke-leads-tracker-web-app.netlify.app/): Deletion, Responsive Design & Deployment | [Day 49](https://github.com/ankitchamke/Leads-Tracker-Web-App) |
+
 
 *(This list will grow as the challenge progresses...)*
 
@@ -722,6 +725,30 @@ Chapter 7 Completed
 - Converted the Firebase snapshot object into an array using `Object.values()` to prepare data for rendering.
 - Integrated the `push` function to add new lead entries from the input field directly to the Firebase database.
 - Continued refactoring by removing commented-out experimental Firebase code related to "birthdays" and "products," streamlining the main codebase for leads.
+
+---
+
+### Day 48: 24 July 2025 (Thursday)
+**Today's Progress:**
+- Designed and structured the "Testimonial Section" with a white background, including individual testimonial cards featuring client images, review text, and client names.
+- Implemented a thin separator line within the testimonial card design for visual separation.
+- Utilized design tool features (like Auto Layout) to ensure consistent spacing and structure for testimonial elements, and created a reusable parent component for scalability.
+- Developed the "Call-To-Action (CTA) - Let’s Work Together" section with a bold white heading on a black background.
+- Applied design principles (like Auto Layout) to manage vertical spacing and alignment of all elements within the CTA section, ensuring responsiveness and consistent presentation.
+
+<img width = "500" src="https://github.com/user-attachments/assets/25bb7758-349f-407a-baf0-217629972df2" >
+
+---
+
+### Day 49: 25 July 2025 (Friday)
+**Today's Progress:**
+- Implemented functionality to delete all leads from the Firebase Realtime Database using the `remove` function.
+- Enhanced the user interface by adding a label, placeholder, and setting a maximum width for input elements.
+- Improved responsiveness by adding the viewport meta tag.
+- Configured and added a favicon and phone icons for better branding and user experience.
+- Transformed the web application into a "mobile app" experience, likely through manifest settings for installability.
+- Successfully deployed the [Leads Tracker Web App](https://ankitchamke-leads-tracker-web-app.netlify.app/) to Netlify, making it accessible online.
+- Configured the app to be addable to the home screen on mobile devices.
 
 ---
 

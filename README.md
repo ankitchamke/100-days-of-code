@@ -77,9 +77,10 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 44 | Figma Practice: Desktop frame, grid, logo, auto layout, and components (UI) | [Day 44](https://github.com/user-attachments/assets/dcd3fe4a-4838-4bdc-a078-126d94684725) |
 | 45 | Day 23 - Firebase Setup for Mobile App (Js) | [Day 45](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Mobile%20App/Day%201/index.js) |
 | 46 | Digital Agency Website: Client Logos & Projects (UI) | [Day 46](https://github.com/user-attachments/assets/ae9ce4e7-4ac4-4760-8533-69453144a161) |
-| 47 | Leads Tracker App: Firebase Data Handling | [Day 47](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Mobile%20App/Day%202/index.js) |
-| 48 | Digital Agency Website: Testimonials & CTA | [Day 48](https://github.com/user-attachments/assets/25bb7758-349f-407a-baf0-217629972df2) |
-| 49 | [Leads Tracker App](https://ankitchamke-leads-tracker-web-app.netlify.app/): Deletion, Responsive Design & Deployment | [Day 49](https://github.com/ankitchamke/Leads-Tracker-Web-App) |
+| 47 | Day 24 - Leads Tracker App: Firebase Data Handling (Js) | [Day 47](https://github.com/ankitchamke/JavaScript/blob/main/Build%20a%20Mobile%20App/Day%202/index.js) |
+| 48 | Digital Agency Website: Testimonials & CTA (UI) | [Day 48](https://github.com/user-attachments/assets/25bb7758-349f-407a-baf0-217629972df2) |
+| 49 | Day 25 - [Leads Tracker App](https://ankitchamke-leads-tracker-web-app.netlify.app/): Deletion, Responsive Design & Deployment (Js) | [Day 49](https://github.com/ankitchamke/Leads-Tracker-Web-App) |
+| 50 | **Completed:** Digital Agency Website: Footer Design System Integration (UI) | [Day 50](https://www.figma.com/design/cXxUDQBp7zUmOfLPNpQlrn/Digital-Agency?node-id=0-1&t=CdHCyVY0U07hIsbG-1) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -736,7 +737,7 @@ Chapter 7 Completed
 - Developed the "Call-To-Action (CTA) - Let’s Work Together" section with a bold white heading on a black background.
 - Applied design principles (like Auto Layout) to manage vertical spacing and alignment of all elements within the CTA section, ensuring responsiveness and consistent presentation.
 
-<img width = "500" src="https://github.com/user-attachments/assets/25bb7758-349f-407a-baf0-217629972df2" >
+<img width = "500" src="https://github.com/user-attachments/assets/10d12a54-dc94-4df4-801a-368b6543834a" >
 
 ---
 
@@ -749,6 +750,22 @@ Chapter 7 Completed
 - Transformed the web application into a "mobile app" experience, likely through manifest settings for installability.
 - Successfully deployed the [Leads Tracker Web App](https://ankitchamke-leads-tracker-web-app.netlify.app/) to Netlify, making it accessible online.
 - Configured the app to be addable to the home screen on mobile devices.
+
+---
+
+### Day 50: 26 July 2025 (Saturday)
+**Today's Progress:**
+- **Completed** the design and structuring of a clean and organized footer layout for the [Digital Agency](https://www.figma.com/design/cXxUDQBp7zUmOfLPNpQlrn/Digital-Agency?node-id=0-1&t=CdHCyVY0U07hIsbG-1) Website, utilizing auto-layout and consistent spacing.
+- **Finished** organizing footer content into logical sections, including menu links (Project, Courses, About us, Contact us), text blocks, and social media icons (YouTube, Instagram, Twitter).
+- **Applied** typographic hierarchy by adjusting font sizes and weights to enhance readability and visual balance within the footer.
+- **Implemented** design system practices by grouping and naming footer components (e.g., "black" section, "menu") for clear organization and future maintainability.
+- **Ensured** proper alignment and consistent spacing to achieve visual balance between all footer elements.
+- **Applied** consistent colors and integrated the footer seamlessly into the overall design system for easy future updates.
+- **Incorporated** horizontal and vertical layout controls to enable responsive structuring of footer items across different screen sizes.
+
+<img width="500" src="https://github.com/user-attachments/assets/939f26c7-7f0e-46ed-a1f3-d491a67743af" />
+<img width="500" src="https://github.com/user-attachments/assets/b00c0b78-acab-4d47-8983-fc9bf5592fd4" />
+
 
 ---
 

@@ -81,6 +81,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 48 | Digital Agency Website: Testimonials & CTA (UI) | [Day 48](https://github.com/user-attachments/assets/25bb7758-349f-407a-baf0-217629972df2) |
 | 49 | Day 25 - [Leads Tracker App](https://ankitchamke-leads-tracker-web-app.netlify.app/): Deletion, Responsive Design & Deployment (Js) | [Day 49](https://github.com/ankitchamke/Leads-Tracker-Web-App) |
 | 50 | **Completed:** Digital Agency Website: Footer Design System Integration (UI) | [Day 50](https://www.figma.com/design/cXxUDQBp7zUmOfLPNpQlrn/Digital-Agency?node-id=0-1&t=CdHCyVY0U07hIsbG-1) |
+| 51 | Mobile App UI: Animated Bottom Nav & Prototyping (UI) | [Day 51](https://github.com/user-attachments/assets/cdda3891-0b4b-4e8f-bc7f-d51e42214133) |
 
 
 *(This list will grow as the challenge progresses...)*
@@ -765,6 +766,21 @@ Chapter 7 Completed
 
 <img width="500" src="https://github.com/user-attachments/assets/939f26c7-7f0e-46ed-a1f3-d491a67743af" />
 <img width="500" src="https://github.com/user-attachments/assets/b00c0b78-acab-4d47-8983-fc9bf5592fd4" />
+
+---
+
+### Day 51: 27 July 2025 (Sunday)
+**Today's Progress:**
+- Learned and practiced creating animated bottom navigation bars in Figma, specifically for mobile app designs.
+- Understood the critical importance of smooth animations and transitions for enhancing user experience.
+- Explored the basics of prototyping in Figma, including setting up hotspots, connections, and destinations between frames.
+- Implemented "On Click" triggers to create interactive flows and switch seamlessly between different screens in the prototype.
+- Gained knowledge on how to preview prototypes directly on mobile devices within Figma.
+- Applied smooth animation curves, such as "Ease In," to ensure a better visual flow and more polished transitions.
+- Differentiated between basic click interactions and more advanced interactions like drag or hover for future prototyping.
+- Learned troubleshooting techniques for missing connections when animations did not function as expected.
+
+<img width="500" src="https://github.com/user-attachments/assets/cdda3891-0b4b-4e8f-bc7f-d51e42214133" />
 
 
 ---

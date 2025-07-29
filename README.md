@@ -82,7 +82,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 49 | Day 25 - [Leads Tracker App](https://ankitchamke-leads-tracker-web-app.netlify.app/): Deletion, Responsive Design & Deployment (Js) | [Day 49](https://github.com/ankitchamke/Leads-Tracker-Web-App) |
 | 50 | **Completed:** Digital Agency Website: Footer Design System Integration (UI) | [Day 50](https://www.figma.com/design/cXxUDQBp7zUmOfLPNpQlrn/Digital-Agency?node-id=0-1&t=CdHCyVY0U07hIsbG-1) |
 | 51 | Mobile App UI: Animated Bottom Nav & Prototyping (UI) | [Day 51](https://github.com/user-attachments/assets/cdda3891-0b4b-4e8f-bc7f-d51e42214133) |
-
+| 52 | Mobile App UI: Advanced Animations & Easing (UI) | [Day 52](https://youtu.be/l-gMLFgJ1Ww?si=iK-Q_zhSY70Am0yf) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -782,6 +782,15 @@ Chapter 7 Completed
 
 <img width="500" src="https://github.com/user-attachments/assets/cdda3891-0b4b-4e8f-bc7f-d51e42214133" />
 
+---
+
+### Day 52: 28 July 2025 (Monday)
+**Today's Progress:**
+- Explored the importance of animation easing curves (such as ease-in, ease-out, and bounce) in Figma for creating smooth and natural transitions.
+- Learned about different transition types available in Figma's Prototype mode: Instant, Dissolve, Slide, Move In/Out, Push, and Smart Animate.
+- Understood how various transitions and easing curves significantly affect the user experience by guiding attention and making interactions feel more fluid and intuitive.
+- Gained insight into the crucial role of both easing curves and precise timing (in milliseconds) in refining overall animation behavior.
+- Practiced hands-on application of these concepts in Figma's Prototype mode, applying different transition types and adjusting curve settings between frames to achieve desired visual effects.
 
 ---
 

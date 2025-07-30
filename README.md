@@ -83,6 +83,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 50 | **Completed:** Digital Agency Website: Footer Design System Integration (UI) | [Day 50](https://www.figma.com/design/cXxUDQBp7zUmOfLPNpQlrn/Digital-Agency?node-id=0-1&t=CdHCyVY0U07hIsbG-1) |
 | 51 | Mobile App UI: Animated Bottom Nav & Prototyping (UI) | [Day 51](https://github.com/user-attachments/assets/cdda3891-0b4b-4e8f-bc7f-d51e42214133) |
 | 52 | Mobile App UI: Advanced Animations & Easing (UI) | [Day 52](https://youtu.be/l-gMLFgJ1Ww?si=iK-Q_zhSY70Am0yf) |
+| 53 | ||
 
 *(This list will grow as the challenge progresses...)*
 

@@ -84,7 +84,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 51 | Mobile App UI: Animated Bottom Nav & Prototyping (UI) | [Day 51](https://github.com/user-attachments/assets/cdda3891-0b4b-4e8f-bc7f-d51e42214133) |
 | 52 | Mobile App UI: Advanced Animations & Easing (UI) | [Day 52](https://youtu.be/l-gMLFgJ1Ww?si=iK-Q_zhSY70Am0yf) |
 | 53 | UX Design Process & FigJam for Brainstorming (UI) | [Day 53](https://github.com/user-attachments/assets/b6947f2d-927e-4706-9455-d99114c0785e) |
-| 54 | UX Design: The Importance of User Personas | [Day 54](https://youtu.be/3PkwYR1xuGk?si=vSCaASv9ZUngvhZl) |
+| 54 | UX Design: The Importance of User Personas (UI) | [Day 54](https://youtu.be/3PkwYR1xuGk?si=vSCaASv9ZUngvhZl) |
+| 55 | UI/UX: Introduction to Design Systems (UI) | [Day 55](https://github.com/user-attachments/assets/f3595fe9-472d-4536-9763-47b89111d571) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -819,6 +820,19 @@ Chapter 7 Completed
 - Reinforced the concept that creating user personas is a foundational step in the "Empathize" stage of the UX design process, ensuring a user-centered approach from the beginning.
 
 ---
+
+### Day 55: 31 July 2025 (Thursday)
+**Today's Progress:**
+- Learned about the purpose and benefits of a design system, understanding how it accelerates design workflows and ensures consistency using reusable components and standardized guidelines.
+- Identified the two major elements of a design system: Patterns (reusable solutions for common UI/UX problems) and Components (individual building blocks of a UI).
+- Explored real-world design system examples from companies like Apple to see how large platforms maintain consistency.
+- Gained knowledge on how to use tools like Figma to create and manage a personal or team-based design system.
+- Understood that a standardized and organized set of design assets leads to a faster and more efficient workflow.
+- Applied practical learning from definitions and examples to understand how to apply patterns and components in real design scenarios.
+<img width="500" src="https://github.com/user-attachments/assets/f3595fe9-472d-4536-9763-47b89111d571" />
+
+---
+
 
 ### 🛠 Tools I’m Using
 - **Scrimba** – [Learn JavaScript](https://scrimba.com/learn-javascript)

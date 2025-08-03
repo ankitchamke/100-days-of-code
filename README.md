@@ -86,6 +86,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 53 | UX Design Process & FigJam for Brainstorming (UI) | [Day 53](https://github.com/user-attachments/assets/b6947f2d-927e-4706-9455-d99114c0785e) |
 | 54 | UX Design: The Importance of User Personas (UI) | [Day 54](https://youtu.be/3PkwYR1xuGk?si=vSCaASv9ZUngvhZl) |
 | 55 | UI/UX: Introduction to Design Systems (UI) | [Day 55](https://github.com/user-attachments/assets/f3595fe9-472d-4536-9763-47b89111d571) |
+| 56 | UI/UX: Design Inspiration with Mobin (UI) | [Day 56](https://youtu.be/vSCvYv3ybgE?si=BkOuyLe0oDB9dUDl) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -833,6 +834,17 @@ Chapter 7 Completed
 
 ---
 
+### Day 56: 01 August 2025 (Friday)
+**Today's Progress:**
+- Explored and learned how to use platforms like Mobin to find design inspiration, showcasing full app designs, individual screens, UI elements, and user flows.
+- Understood how to filter inspiration by platform (iOS, Android, Web), category (e.g., Crypto, Business), screen type (e.g., login, dashboard), and UI element.
+- Learned how to save and organize inspiration by creating collections within Mobin for easy access to favorite designs.
+- Practiced methods for exporting inspiration to Figma, including copy-pasting, downloading, and using a shareable link.
+- Discovered and utilized the Mobin Figma plugin to directly import entire user flows, significantly saving time and effort.
+- Understood how to quickly build client-ready flows by using real-world examples as a foundation and customizing them.
+- Gained insight into how tools like Mobin bridge the gap between finding inspiration and the execution of a design project.
+
+---
 
 ### 🛠 Tools I’m Using
 - **Scrimba** – [Learn JavaScript](https://scrimba.com/learn-javascript)

@@ -23,6 +23,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 - Make beginner-friendly web projects using JavaScript
 - Solve Python problems to sharpen logic and syntax
 - Deploy a Chrome extension and simple JS-based apps
+- Learn Learn Scrimba's [**Command Line Basics Course**](https://scrimba.com/command-line-basics-c08b87ogl0:toc)
 - Keep daily logs and push code to GitHub consistently
 
 ---
@@ -87,6 +88,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 54 | UX Design: The Importance of User Personas (UI) | [Day 54](https://youtu.be/3PkwYR1xuGk?si=vSCaASv9ZUngvhZl) |
 | 55 | UI/UX: Introduction to Design Systems (UI) | [Day 55](https://github.com/user-attachments/assets/f3595fe9-472d-4536-9763-47b89111d571) |
 | 56 | UI/UX: Design Inspiration with Mobin (UI) | [Day 56](https://youtu.be/vSCvYv3ybgE?si=BkOuyLe0oDB9dUDl) |
+| 57 | Command Line Basics & Navigation | [Day 57](https://scrimba.com/command-line-basics-c08b87ogl0) |
+
 
 *(This list will grow as the challenge progresses...)*
 
@@ -846,8 +849,17 @@ Chapter 7 Completed
 
 ---
 
+### Day 57: 02 August 2025 (Saturday)
+**Today's Progress:**
+- Began learning the fundamentals of the command line, demystifying its purpose and function.
+- Learned and practiced core navigation commands: `pwd` (print working directory), `ls` (list files), `cd` (change directory), `..` (move up one directory), and `clear` (clear the terminal screen).
+- Understood the file tree structure and the rules of navigating through it using the command line.
+- Gained a foundational understanding of how to inspect the file system and move between different directories efficiently, which is a crucial skill for all developers.
+
+---
+
 ### 🛠 Tools I’m Using
-- **Scrimba** – [Learn JavaScript](https://scrimba.com/learn-javascript)
+- **Scrimba** – [Learn JavaScript](https://scrimba.com/)
 - **Ali Hassan** - [UI/UX Design For Beginners with Projects 2025](https://youtube.com/playlist?list=PLdvOfoe7PXT0ouChAnR1nHlT8BJIo5hP_&si=46mp-RQnEta2nXKX)
 - **CodeWithHarry** – [Python Tutorial For Beginners](https://youtu.be/UrsmFxEIp5k?si=FpWLqOkm1hvjSlUs)
 - **VS Code** – [Code editor](https://code.visualstudio.com/)

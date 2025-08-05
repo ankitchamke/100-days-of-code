@@ -89,7 +89,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 55 | UI/UX: Introduction to Design Systems (UI) | [Day 55](https://github.com/user-attachments/assets/f3595fe9-472d-4536-9763-47b89111d571) |
 | 56 | UI/UX: Design Inspiration with Mobin (UI) | [Day 56](https://youtu.be/vSCvYv3ybgE?si=BkOuyLe0oDB9dUDl) |
 | 57 | Command Line Basics & Navigation | [Day 57](https://scrimba.com/command-line-basics-c08b87ogl0) |
-
+| 58 | Command Line: File & Directory Manipulation | [Day 58](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -855,6 +855,17 @@ Chapter 7 Completed
 - Learned and practiced core navigation commands: `pwd` (print working directory), `ls` (list files), `cd` (change directory), `..` (move up one directory), and `clear` (clear the terminal screen).
 - Understood the file tree structure and the rules of navigating through it using the command line.
 - Gained a foundational understanding of how to inspect the file system and move between different directories efficiently, which is a crucial skill for all developers.
+
+---
+
+### Day 58: 03 August 2025 (Sunday)
+**Today's Progress:**
+- Learned and practiced command line basics for file and directory manipulation.
+- Mastered commands to create and delete files (`New-Item`, `touch`, `rm`).
+- Practiced creating and deleting directories using `mkdir` and `rmdir`.
+- Understood how to write content to a file using the `echo` command.
+- Learned how to read the contents of a file using the `cat` command.
+- Gained a solid understanding of fundamental command line operations beyond just navigation, which is essential for managing projects and files directly from the terminal.
 
 ---
 

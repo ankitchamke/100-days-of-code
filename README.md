@@ -90,6 +90,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 56 | UI/UX: Design Inspiration with Mobin (UI) | [Day 56](https://youtu.be/vSCvYv3ybgE?si=BkOuyLe0oDB9dUDl) |
 | 57 | Command Line Basics & Navigation | [Day 57](https://scrimba.com/command-line-basics-c08b87ogl0) |
 | 58 | Command Line: File & Directory Manipulation | [Day 58](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
+||||
 
 *(This list will grow as the challenge progresses...)*
 

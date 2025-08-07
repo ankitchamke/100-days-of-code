@@ -90,7 +90,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 56 | UI/UX: Design Inspiration with Mobin (UI) | [Day 56](https://youtu.be/vSCvYv3ybgE?si=BkOuyLe0oDB9dUDl) |
 | 57 | Command Line Basics & Navigation | [Day 57](https://scrimba.com/command-line-basics-c08b87ogl0) |
 | 58 | Command Line: File & Directory Manipulation | [Day 58](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
-||||
+| 59 | Command Line: Terminology & VS Code Setup | [Day 59](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -867,6 +867,15 @@ Chapter 7 Completed
 - Understood how to write content to a file using the `echo` command.
 - Learned how to read the contents of a file using the `cat` command.
 - Gained a solid understanding of fundamental command line operations beyond just navigation, which is essential for managing projects and files directly from the terminal.
+
+---
+
+### Day 59: 04 August 2025 (Monday)
+**Today's Progress:**
+- Began with an introduction to the command line, moving beyond basic commands to understand the underlying concepts.
+- Learned key terminology through a crash course on terms like **Linux**, **shell**, and **CLI** (Command Line Interface).
+- Set up and configured the local command-line environment directly within **VS Code**, including its integration with **Git**.
+- Explored the concept of command-line **options**, which are used to modify the behavior of commands.
 
 ---
 

@@ -91,6 +91,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 57 | Command Line Basics & Navigation | [Day 57](https://scrimba.com/command-line-basics-c08b87ogl0) |
 | 58 | Command Line: File & Directory Manipulation | [Day 58](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 | 59 | Command Line: Terminology & VS Code Setup | [Day 59](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
+| 60 | Command Line: Advanced File Operations | [Day 60](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
+
 
 *(This list will grow as the challenge progresses...)*
 
@@ -876,6 +878,15 @@ Chapter 7 Completed
 - Learned key terminology through a crash course on terms like **Linux**, **shell**, and **CLI** (Command Line Interface).
 - Set up and configured the local command-line environment directly within **VS Code**, including its integration with **Git**.
 - Explored the concept of command-line **options**, which are used to modify the behavior of commands.
+
+---
+
+### Day 60: 05 August 2025 (Tuesday)
+**Today's Progress:**
+- Learned more advanced command-line operations for managing files and directories.
+- Practiced commands to efficiently find specific files and directories within the file system.
+- Gained an understanding of how to kill a running process using the command line.
+- Mastered the commands for renaming, moving, and copying files and directories.
 
 ---
 

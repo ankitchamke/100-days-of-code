@@ -93,6 +93,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 59 | Command Line: Terminology & VS Code Setup | [Day 59](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 | 60 | Command Line: Advanced File Operations | [Day 60](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 | 61 | Figma Basics & Interface Navigation | [Day 61](https://youtu.be/HZuk6Wkx_Eg?si=NJqhti_ood9pemFq) |
+| 62 | Command Line: Search & Replace | [Day 62](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -897,6 +898,14 @@ Chapter 7 Completed
 - Explored typography basics by adding and styling text, and creating reusable text styles for consistency.
 - Designed buttons and a "Featured On" section, learning how to use shortcuts for alignment and duplication.
 - Began experimenting with background effects by creating gradient-blur shapes to add visual depth to the design.
+
+---
+
+### Day 62: 07 August 2025 (Thursday)
+**Today's Progress:**
+- Learned how to search for specific text and patterns within files using the powerful `grep` command.
+- Practiced replacing content in files using the `sed` (Stream Editor) command, a fundamental skill for text manipulation from the command line.
+- Gained a practical understanding of how to find and modify data in files without needing to open them in a text editor.
 
 ---
 

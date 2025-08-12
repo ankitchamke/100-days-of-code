@@ -94,6 +94,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 60 | Command Line: Advanced File Operations | [Day 60](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 | 61 | Figma Basics & Interface Navigation | [Day 61](https://youtu.be/HZuk6Wkx_Eg?si=NJqhti_ood9pemFq) |
 | 62 | Command Line: Search & Replace | [Day 62](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
+| 63 | Figma: Advanced UI Components & Styling | [Day 63](https://github.com/user-attachments/assets/8ff5667b-0152-4041-b916-511275dd0367) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -906,6 +907,20 @@ Chapter 7 Completed
 - Learned how to search for specific text and patterns within files using the powerful `grep` command.
 - Practiced replacing content in files using the `sed` (Stream Editor) command, a fundamental skill for text manipulation from the command line.
 - Gained a practical understanding of how to find and modify data in files without needing to open them in a text editor.
+
+---
+
+### Day 63: 08 August 2025 (Friday)
+**Today's Progress:**
+- Continued working on the website landing page design in Figma, focusing on advanced UI components and styling.
+- Learned how to use Auto-layout to create buttons and components that maintain consistent padding and spacing.
+- Practiced grouping and naming sections for better project organization and creating variations by duplicating elements.
+- Designed a testimonial section with subheaders, centered text, background containers, and image masks for profile pictures.
+- Styled a call-to-action (CTA) section with a gradient-filled card, bold headings, and color emphasis.
+- Created a modern footer design with a gradient background and a newsletter sign-up field, ensuring all elements were aligned to the grid.
+- Learned how to break style links to make specific font size customizations without affecting the global style definition.
+
+<img width="500" src="https://github.com/user-attachments/assets/8ff5667b-0152-4041-b916-511275dd0367" />
 
 ---
 

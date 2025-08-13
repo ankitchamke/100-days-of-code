@@ -95,6 +95,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 61 | Figma Basics & Interface Navigation | [Day 61](https://youtu.be/HZuk6Wkx_Eg?si=NJqhti_ood9pemFq) |
 | 62 | Command Line: Search & Replace | [Day 62](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 | 63 | Figma: Advanced UI Components & Styling | [Day 63](https://github.com/user-attachments/assets/8ff5667b-0152-4041-b916-511275dd0367) |
+| 64 | Command Line: Text Processing & CLI Completion | [Day 64](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -921,6 +922,15 @@ Chapter 7 Completed
 - Learned how to break style links to make specific font size customizations without affecting the global style definition.
 
 <img width="500" src="https://github.com/user-attachments/assets/8ff5667b-0152-4041-b916-511275dd0367" />
+
+---
+
+### Day 64: 09 August 2025 (Saturday)
+**Today's Progress:**
+- Learned how to use the `wc` command to count lines, words, and characters within files.
+- Practiced using the `sort` command to arrange file contents alphabetically or numerically.
+- Understood how to combine commands using a pipe (`|`) to sort file contents and then pass the output to `uniq` to remove duplicate lines.
+- Completed the "CLI Basics"" module, gaining a foundational understanding of essential command-line tools and concepts for file navigation and manipulation.
 
 ---
 

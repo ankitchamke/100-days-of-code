@@ -96,6 +96,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 62 | Command Line: Search & Replace | [Day 62](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 | 63 | Figma: Advanced UI Components & Styling | [Day 63](https://github.com/user-attachments/assets/8ff5667b-0152-4041-b916-511275dd0367) |
 | 64 | Command Line: Text Processing & CLI Completion | [Day 64](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
+| 65 | Intro to UI/UX Design & Career Path | [Day 65](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -931,6 +932,16 @@ Chapter 7 Completed
 - Practiced using the `sort` command to arrange file contents alphabetically or numerically.
 - Understood how to combine commands using a pipe (`|`) to sort file contents and then pass the output to `uniq` to remove duplicate lines.
 - Completed the "CLI Basics"" module, gaining a foundational understanding of essential command-line tools and concepts for file navigation and manipulation.
+
+---
+
+### Day 65: 10 August 2025 (Sunday)
+**Today's Progress:**
+- Began a new UI/UX roadmap, starting with foundational concepts and career insights.
+- Learned the key differences between **User Experience (UX)** and **User Interface (UI)** design, and understood why good design is critical for a product's success.
+- Explored the high demand for UI/UX designers in India and gained insights into salary expectations, skills needed, and career tips.
+- Outlined a learning path focused on mastering **Figma** and continuously learning new UX concepts through resources like `growth.design`.
+- Started using Notion to organize and take notes on new design concepts and resources.
 
 ---
 

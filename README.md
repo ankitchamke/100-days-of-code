@@ -98,6 +98,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 64 | Command Line: Text Processing & CLI Completion | [Day 64](https://scrimba.com/command-line-basics-c08b87ogl0/~07d2) |
 | 65 | Intro to UI/UX Design & Career Path | [Day 65](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
 | 66 | Intro to Linux: Kernel, CLI & Distributions | [Day 66](https://www.notion.so/ankitchamke/Linux-Essentials-24febb45282e80fd8047d37d9be353cd?source=copy_link) |
+| 67 | UI/UX: Figma & Career Insights | [Day 67](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -953,6 +954,16 @@ Chapter 7 Completed
 - Learned about the open-source philosophy of Linux, which has driven its rapid development and widespread adoption.
 - Differentiated between Linux distributions and their purpose, noting how they bundle the kernel and tools for different use cases.
 - Gained a foundational understanding of the **Command Line Interface (CLI)** and its importance for speed, automation, and universal control in Linux.
+
+---
+
+### Day 67: 12 August 2025 (Tuesday)
+**Today's Progress:**
+- Gained a foundational understanding of what Figma is, its low-barrier-to-entry for learning, and the seven essential features to master.
+- Outlined a learning path for UI/UX, recognizing the distinction between learning a design tool (like Figma) and developing design thinking through case studies.
+- Explored career-related aspects of UX/UI, including salary insights for India, the value of a strong portfolio over certifications, and the importance of soft skills.
+- Learned practical tips for a career in design, such as leveraging free resources, networking on LinkedIn, and using AI for ideation.
+- Understood that a successful career in UX design requires both tool proficiency and a deep understanding of user-centered thinking.
 
 ---
 

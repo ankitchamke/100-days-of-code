@@ -99,6 +99,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 65 | Intro to UI/UX Design & Career Path | [Day 65](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
 | 66 | Intro to Linux: Kernel, CLI & Distributions | [Day 66](https://www.notion.so/ankitchamke/Linux-Essentials-24febb45282e80fd8047d37d9be353cd?source=copy_link) |
 | 67 | UI/UX: Figma & Career Insights | [Day 67](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
+| 68 | OCI AI Foundations: Course Kickoff & AI Fundamentals | [Day 68](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -964,6 +965,18 @@ Chapter 7 Completed
 - Explored career-related aspects of UX/UI, including salary insights for India, the value of a strong portfolio over certifications, and the importance of soft skills.
 - Learned practical tips for a career in design, such as leveraging free resources, networking on LinkedIn, and using AI for ideation.
 - Understood that a successful career in UX design requires both tool proficiency and a deep understanding of user-centered thinking.
+
+---
+
+### Day 68: 13 August 2025 (Wednesday)
+**Today's Progress:**
+- Began the "Oracle Race to Certification in OCI AI Foundations" to prepare for the free certification exam.
+- Explored the course structure, including hands-on labs, a practice exam, and key topics like Generative AI, LLMs, and the Oracle AI Stack.
+- Completed the first module, "Welcome to AI Foundations," gaining a foundational understanding of the high demand for AI skills in the job market.
+- Learned the core components of the AI Stack, including the differences between Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
+- Created a study plan and noted strategies for completing the course and preparing for the certification exam.
+
+(Pausing the Linux journey to jump into Oracle’s time-limited “Race to Certification” with the OCI AI Foundations course.)
 
 ---
 

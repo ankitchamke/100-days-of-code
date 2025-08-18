@@ -99,7 +99,9 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 65 | Intro to UI/UX Design & Career Path | [Day 65](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
 | 66 | Intro to Linux: Kernel, CLI & Distributions | [Day 66](https://www.notion.so/ankitchamke/Linux-Essentials-24febb45282e80fd8047d37d9be353cd?source=copy_link) |
 | 67 | UI/UX: Figma & Career Insights | [Day 67](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
+|  | (Pausing the other journey to jump into Oracle’s time-limited “Race to Certification” with the OCI AI Foundations course.) |  |
 | 68 | OCI AI Foundations: Course Kickoff & AI Fundamentals | [Day 68](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 69 | OCI AI Foundations: Core AI, ML & DL Concepts | [Day 69](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -968,6 +970,8 @@ Chapter 7 Completed
 
 ---
 
+(Pausing the Linux journey to jump into Oracle’s time-limited “Race to Certification” with the OCI AI Foundations course.)
+
 ### Day 68: 13 August 2025 (Wednesday)
 **Today's Progress:**
 - Began the "Oracle Race to Certification in OCI AI Foundations" to prepare for the free certification exam.
@@ -976,7 +980,15 @@ Chapter 7 Completed
 - Learned the core components of the AI Stack, including the differences between Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI.
 - Created a study plan and noted strategies for completing the course and preparing for the certification exam.
 
-(Pausing the Linux journey to jump into Oracle’s time-limited “Race to Certification” with the OCI AI Foundations course.)
+---
+
+### Day 69: 14 August 2025 (Thursday)
+**Today's Progress:**
+- Continued my progress in the OCI AI Foundations course, completing the "Introduction to AI" module.
+- Gained a deep understanding of what AI is and its real-world applications in language, vision, speech, and forecasting.
+- Explored the different AI domains and the models that power them, such as Transformers for Language AI, CNNs for Vision AI, and GANs for generative tasks.
+- Learned the clear distinctions between **AI**, **Machine Learning (ML)**, **Deep Learning (DL)**, and **Generative AI** and how they relate to each other.
+- Understood the three types of machine learning: **Supervised**, **Unsupervised**, and **Reinforcement Learning**, along with practical examples for each.
 
 ---
 

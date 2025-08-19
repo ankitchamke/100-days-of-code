@@ -102,7 +102,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 |  | (Pausing the other journey to jump into Oracle’s time-limited “Race to Certification” with the OCI AI Foundations course.) |  |
 | 68 | OCI AI Foundations: Course Kickoff & AI Fundamentals | [Day 68](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 69 | OCI AI Foundations: Core AI, ML & DL Concepts | [Day 69](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
-
+| 70 | OCI AI Foundations: ML Concepts & Supervised Learning | [Day 70](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 *(This list will grow as the challenge progresses...)*
 
 ---
@@ -989,6 +989,15 @@ Chapter 7 Completed
 - Explored the different AI domains and the models that power them, such as Transformers for Language AI, CNNs for Vision AI, and GANs for generative tasks.
 - Learned the clear distinctions between **AI**, **Machine Learning (ML)**, **Deep Learning (DL)**, and **Generative AI** and how they relate to each other.
 - Understood the three types of machine learning: **Supervised**, **Unsupervised**, and **Reinforcement Learning**, along with practical examples for each.
+
+---
+
+### Day 70: 15 August 2025 (Friday)
+**Today's Progress:**
+- Deepened my understanding of Machine Learning, learning its definition, how it works, and its everyday applications.
+- Gained a clear understanding of the three main types of Machine Learning: Supervised, Unsupervised, and Reinforcement Learning.
+- Took a deep dive into **Supervised Learning**, learning about both **Classification** (predicting categories) and **Regression** (predicting continuous values).
+- Explored specific algorithms for Supervised Learning, including **Logistic Regression** for classification and **Linear Regression** for regression, using examples like the Iris dataset and house price prediction.
 
 ---
 

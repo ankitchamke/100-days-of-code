@@ -103,6 +103,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 68 | OCI AI Foundations: Course Kickoff & AI Fundamentals | [Day 68](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 69 | OCI AI Foundations: Core AI, ML & DL Concepts | [Day 69](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 70 | OCI AI Foundations: ML Concepts & Supervised Learning | [Day 70](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 71 | OCI AI Foundations: Practical ML & Unsupervised Learning | [Day 71](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 *(This list will grow as the challenge progresses...)*
 
 ---
@@ -998,6 +999,16 @@ Chapter 7 Completed
 - Gained a clear understanding of the three main types of Machine Learning: Supervised, Unsupervised, and Reinforcement Learning.
 - Took a deep dive into **Supervised Learning**, learning about both **Classification** (predicting categories) and **Regression** (predicting continuous values).
 - Explored specific algorithms for Supervised Learning, including **Logistic Regression** for classification and **Linear Regression** for regression, using examples like the Iris dataset and house price prediction.
+
+---
+
+### Day 71: 16 August 2025 (Saturday)
+**Today's Progress:**
+- Completed a hands-on demonstration of a basic Machine Learning workflow, learning to use **pandas** and **scikit-learn** to load data, train a model, and make predictions.
+- **Encountered some challenges** with the second part of the ML demo, but gained a clearer understanding of the overall process and the role of key libraries.
+- Took a deep dive into **Unsupervised Learning**, learning how algorithms find hidden patterns in unlabeled data through clustering.
+- Explored practical use cases for unsupervised learning, such as **market segmentation** and **fraud detection**.
+- Gained a foundational understanding of **Reinforcement Learning**, including the key concepts of an agent, environment, policy, and rewards, with examples in autonomous vehicles and gaming.
 
 ---
 

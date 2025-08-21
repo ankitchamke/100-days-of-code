@@ -104,6 +104,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 69 | OCI AI Foundations: Core AI, ML & DL Concepts | [Day 69](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 70 | OCI AI Foundations: ML Concepts & Supervised Learning | [Day 70](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 71 | OCI AI Foundations: Practical ML & Unsupervised Learning | [Day 71](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 72 | OCI AI Foundations: Deep Learning & Neural Networks | [Day 72](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+
 *(This list will grow as the challenge progresses...)*
 
 ---
@@ -1009,6 +1011,15 @@ Chapter 7 Completed
 - Took a deep dive into **Unsupervised Learning**, learning how algorithms find hidden patterns in unlabeled data through clustering.
 - Explored practical use cases for unsupervised learning, such as **market segmentation** and **fraud detection**.
 - Gained a foundational understanding of **Reinforcement Learning**, including the key concepts of an agent, environment, policy, and rewards, with examples in autonomous vehicles and gaming.
+
+---
+
+### Day 72: 17 August 2025 (Sunday)
+**Today's Progress:**
+- Completed the "Introduction to Deep Learning" module, learning how it differs from traditional ML by automatically extracting features from raw data.
+- Gained a foundational understanding of **Artificial Neural Networks (ANNs)**, including their structure of input, hidden, and output layers.
+- Took a deep dive into **sequence models**, learning about **Recurrent Neural Networks (RNNs)** and how **Long Short-Term Memory (LSTM)** models solve the vanishing gradient problem.
+- Explored **Convolutional Neural Networks (CNNs)**, understanding their unique architecture of convolutional and pooling layers and their primary application in computer vision.
 
 ---
 

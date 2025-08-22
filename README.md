@@ -105,7 +105,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 70 | OCI AI Foundations: ML Concepts & Supervised Learning | [Day 70](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 71 | OCI AI Foundations: Practical ML & Unsupervised Learning | [Day 71](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 72 | OCI AI Foundations: Deep Learning & Neural Networks | [Day 72](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
-
+||||
 *(This list will grow as the challenge progresses...)*
 
 ---

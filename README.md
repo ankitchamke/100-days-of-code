@@ -105,7 +105,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 70 | OCI AI Foundations: ML Concepts & Supervised Learning | [Day 70](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 71 | OCI AI Foundations: Practical ML & Unsupervised Learning | [Day 71](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 72 | OCI AI Foundations: Deep Learning & Neural Networks | [Day 72](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
-||||
+| 73 | OCI AI Foundations: Generative AI & LLMs | [Day 73](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+
 *(This list will grow as the challenge progresses...)*
 
 ---
@@ -1020,6 +1021,15 @@ Chapter 7 Completed
 - Gained a foundational understanding of **Artificial Neural Networks (ANNs)**, including their structure of input, hidden, and output layers.
 - Took a deep dive into **sequence models**, learning about **Recurrent Neural Networks (RNNs)** and how **Long Short-Term Memory (LSTM)** models solve the vanishing gradient problem.
 - Explored **Convolutional Neural Networks (CNNs)**, understanding their unique architecture of convolutional and pooling layers and their primary application in computer vision.
+
+---
+
+### Day 73: 18 August 2025 (Monday)
+**Today's Progress:**
+- Completed the "Introduction to Generative AI" module, learning how GenAI differs from traditional ML by creating new, original content rather than just classifying or predicting.
+- Explored the concept of **Large Language Models (LLMs)** and their ability to perform complex tasks like reasoning, translation, and summarization by predicting the next word in a sequence.
+- Gained a foundational understanding of the **Transformer architecture**, recognizing its role as a game-changer in AI for its ability to process entire sequences at once and capture long-range dependencies.
+- Learned about the **self-attention mechanism**, which is the core of Transformers and allows models to determine the relationships between all words in a sentence simultaneously.
 
 ---
 

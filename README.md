@@ -106,6 +106,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 71 | OCI AI Foundations: Practical ML & Unsupervised Learning | [Day 71](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 72 | OCI AI Foundations: Deep Learning & Neural Networks | [Day 72](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 73 | OCI AI Foundations: Generative AI & LLMs | [Day 73](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 74 | OCI AI Foundations: Transformers & Prompt Engineering | [Day 74](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -1030,6 +1031,15 @@ Chapter 7 Completed
 - Explored the concept of **Large Language Models (LLMs)** and their ability to perform complex tasks like reasoning, translation, and summarization by predicting the next word in a sequence.
 - Gained a foundational understanding of the **Transformer architecture**, recognizing its role as a game-changer in AI for its ability to process entire sequences at once and capture long-range dependencies.
 - Learned about the **self-attention mechanism**, which is the core of Transformers and allows models to determine the relationships between all words in a sentence simultaneously.
+
+---
+
+### Day 74: 19 August 2025 (Tuesday)
+**Today's Progress:**
+- Completed the "Transformers Part 2" module, gaining a deeper understanding of how they work by using **encoders** and **decoders**, and how **tokenization** and **embeddings** convert text into numerical representations.
+- Learned about the three main types of Transformer architectures: **encoder-only**, **decoder-only**, and **encoder-decoder**, and their respective use cases.
+- Began a new module on **Prompt Engineering**, learning techniques like **in-context learning** and **Chain-of-Thought** to improve LLM outputs.
+- Understood the roles of **instruction tuning** and **RLHF** in making LLMs more responsive and less prone to "hallucinations."
 
 ---
 

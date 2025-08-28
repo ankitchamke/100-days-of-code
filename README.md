@@ -107,6 +107,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 72 | OCI AI Foundations: Deep Learning & Neural Networks | [Day 72](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 73 | OCI AI Foundations: Generative AI & LLMs | [Day 73](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 74 | OCI AI Foundations: Transformers & Prompt Engineering | [Day 74](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 75 | OCI AI Foundations: LLM Customization & AI Portfolio | [Day 75](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -1031,6 +1032,15 @@ Chapter 7 Completed
 - Explored the concept of **Large Language Models (LLMs)** and their ability to perform complex tasks like reasoning, translation, and summarization by predicting the next word in a sequence.
 - Gained a foundational understanding of the **Transformer architecture**, recognizing its role as a game-changer in AI for its ability to process entire sequences at once and capture long-range dependencies.
 - Learned about the **self-attention mechanism**, which is the core of Transformers and allows models to determine the relationships between all words in a sentence simultaneously.
+
+---
+
+### Day 75: 20 August 2025 (Wednesday)
+**Today's Progress:**
+- Learned the three main strategies for customizing LLMs: **Prompt Engineering** for quick iteration, **RAG** (Retrieval Augmented Generation) for providing grounded, up-to-date answers, and **Fine-Tuning** for adapting a model to a specific domain or style.
+- Began exploring the **OCI AI Portfolio**, understanding that Oracle offers ready-to-use AI Services for tasks like Language, Vision, and Speech.
+- Gained an overview of **OCI Data Science**, a managed cloud service for building, training, and deploying custom ML models, and its key features like JupyterLab Notebooks and the Model Catalog.
+- Understood the difference between **AI Services** (prebuilt models) and **ML Services** (tools for building custom models).
 
 ---
 

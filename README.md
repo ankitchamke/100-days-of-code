@@ -1053,6 +1053,10 @@ Chapter 7 Completed
 
 ---
 
+
+
+---
+
 ### 🛠 Tools I’m Using
 - **Scrimba** – [Learn JavaScript](https://scrimba.com/)
 - **Ali Hassan** - [UI/UX Design For Beginners with Projects 2025](https://youtube.com/playlist?list=PLdvOfoe7PXT0ouChAnR1nHlT8BJIo5hP_&si=46mp-RQnEta2nXKX)

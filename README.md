@@ -108,7 +108,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 73 | OCI AI Foundations: Generative AI & LLMs | [Day 73](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 74 | OCI AI Foundations: Transformers & Prompt Engineering | [Day 74](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 75 | OCI AI Foundations: LLM Customization & AI Portfolio | [Day 75](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
-
+| 76 | OCI AI Foundations: GPU Infrastructure & Responsible AI | [Day 76](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 77 | OCI AI Foundations: Generative AI & Endpoints | [Day 77](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 *(This list will grow as the challenge progresses...)*
 
 ---
@@ -1035,15 +1036,6 @@ Chapter 7 Completed
 
 ---
 
-### Day 75: 20 August 2025 (Wednesday)
-**Today's Progress:**
-- Learned the three main strategies for customizing LLMs: **Prompt Engineering** for quick iteration, **RAG** (Retrieval Augmented Generation) for providing grounded, up-to-date answers, and **Fine-Tuning** for adapting a model to a specific domain or style.
-- Began exploring the **OCI AI Portfolio**, understanding that Oracle offers ready-to-use AI Services for tasks like Language, Vision, and Speech.
-- Gained an overview of **OCI Data Science**, a managed cloud service for building, training, and deploying custom ML models, and its key features like JupyterLab Notebooks and the Model Catalog.
-- Understood the difference between **AI Services** (prebuilt models) and **ML Services** (tools for building custom models).
-
----
-
 ### Day 74: 19 August 2025 (Tuesday)
 **Today's Progress:**
 - Completed the "Transformers Part 2" module, gaining a deeper understanding of how they work by using **encoders** and **decoders**, and how **tokenization** and **embeddings** convert text into numerical representations.
@@ -1053,7 +1045,31 @@ Chapter 7 Completed
 
 ---
 
+### Day 75: 20 August 2025 (Wednesday)
+**Today's Progress:**
+- Learned the three main strategies for customizing LLMs: **Prompt Engineering** for quick iteration, **RAG** (Retrieval Augmented Generation) for providing grounded, up-to-date answers, and **Fine-Tuning** for adapting a model to a specific domain or style.
+- Began exploring the **OCI AI Portfolio**, understanding that Oracle offers ready-to-use AI Services for tasks like Language, Vision, and Speech.
+- Gained an overview of **OCI Data Science**, a managed cloud service for building, training, and deploying custom ML models, and its key features like JupyterLab Notebooks and the Model Catalog.
+- Understood the difference between **AI Services** (prebuilt models) and **ML Services** (tools for building custom models).
 
+---
+
+### Day 76: 21 August 2025 (Thursday)
+**Today's Progress:**
+- Learned about the foundational role of **GPUs** in modern AI and how their thousands of parallel cores make them much more efficient than CPUs for deep learning workloads.
+- Gained a deep understanding of OCI's AI infrastructure, specifically the technology behind **Superclusters** and their use of **RDMA** and **nonblocking fabric** to enable low-latency, high-throughput communication between tens of thousands of GPUs.
+- Explored the crucial topic of **Responsible AI**, understanding its legal and ethical requirements to ensure AI systems are trustworthy, transparent, and fair.
+- Learned about the key principles of responsible AI, including human oversight, fairness, safety, and explainability.
+
+---
+
+### Day 77: 22 August 2025 (Friday)
+**Today's Progress:**
+- Learned about the **OCI Generative AI Service**, a fully managed, serverless platform offering pre-trained foundational models for chat and embeddings.
+- Explored the different model types, including chat models like **Command-R** and **LLaMA 3**, and embedding models for semantic search.
+- Used the **OCI Generative AI Playground** to test models without code, gaining hands-on experience with prompts and parameters like `temperature` and `preamble`.
+- Understood the process of creating **Dedicated AI Clusters** for fine-tuning models and deploying them via **Endpoints** for production use.
+- Gained a clear understanding of the full workflow: from prototyping in the playground to hosting custom, fine-tuned models in real applications.
 
 ---
 

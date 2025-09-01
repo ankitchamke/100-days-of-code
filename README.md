@@ -110,6 +110,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 75 | OCI AI Foundations: LLM Customization & AI Portfolio | [Day 75](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 76 | OCI AI Foundations: GPU Infrastructure & Responsible AI | [Day 76](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 77 | OCI AI Foundations: Generative AI & Endpoints | [Day 77](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 78 | OCI AI Foundations: Vector Search & Select AI | [Day 78](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+
 *(This list will grow as the challenge progresses...)*
 
 ---
@@ -1070,6 +1072,14 @@ Chapter 7 Completed
 - Used the **OCI Generative AI Playground** to test models without code, gaining hands-on experience with prompts and parameters like `temperature` and `preamble`.
 - Understood the process of creating **Dedicated AI Clusters** for fine-tuning models and deploying them via **Endpoints** for production use.
 - Gained a clear understanding of the full workflow: from prototyping in the playground to hosting custom, fine-tuned models in real applications.
+
+---
+### Day 78: 23 August 2025 (Saturday)
+**Today's Progress:**
+- Learned about **Oracle AI Vector Search**, a new feature in Oracle Database 23ai that allows for semantic similarity searches on both structured and unstructured data using vector embeddings.
+- Understood the core features of Vector Search, including the `VECTOR` data type, SQL functions like `VECTOR_EMBEDDING()` and `VECTOR_DISTANCE()`, and the use of indexes for high performance.
+- Explored the concept of **Select AI**, which uses LLMs to translate natural language questions into SQL queries, making data analysis more accessible to non-experts.
+- Gained an understanding of how both Vector Search and Select AI securely integrate into the Oracle Database to support modern AI applications like RAG without moving data.
 
 ---
 

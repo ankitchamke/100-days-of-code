@@ -111,6 +111,8 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 76 | OCI AI Foundations: GPU Infrastructure & Responsible AI | [Day 76](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 77 | OCI AI Foundations: Generative AI & Endpoints | [Day 77](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 78 | OCI AI Foundations: Vector Search & Select AI | [Day 78](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 79 | OCI AI Foundations: Core AI Services Deep Dive | [Day 79](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 80 | OCI Foundations: Lab Environment & Access | [Day 80](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -1074,12 +1076,32 @@ Chapter 7 Completed
 - Gained a clear understanding of the full workflow: from prototyping in the playground to hosting custom, fine-tuned models in real applications.
 
 ---
+
 ### Day 78: 23 August 2025 (Saturday)
 **Today's Progress:**
 - Learned about **Oracle AI Vector Search**, a new feature in Oracle Database 23ai that allows for semantic similarity searches on both structured and unstructured data using vector embeddings.
 - Understood the core features of Vector Search, including the `VECTOR` data type, SQL functions like `VECTOR_EMBEDDING()` and `VECTOR_DISTANCE()`, and the use of indexes for high performance.
 - Explored the concept of **Select AI**, which uses LLMs to translate natural language questions into SQL queries, making data analysis more accessible to non-experts.
 - Gained an understanding of how both Vector Search and Select AI securely integrate into the Oracle Database to support modern AI applications like RAG without moving data.
+
+---
+
+### Day 79: 24 August 2025 (Sunday)
+**Today's Progress:**
+- Completed the final modules of the OCI AI Foundations course, gaining a deep understanding of Oracle’s ready-to-use AI Services.
+- Learned about the **OCI Language service** and its capabilities for text analysis, including sentiment analysis, entity recognition, and text classification.
+- Explored the **OCI Speech service**, which enables fast and accurate speech-to-text transcription for various applications like call center analytics and video captioning.
+- Gained an overview of the **OCI Vision service** for image analysis, including object detection and image classification, and the **OCI Document Understanding service** for extracting structured data from documents using features like OCR and table extraction.
+- Solidified the understanding that these services abstract away the complexity of machine learning, allowing developers to integrate AI features with simple API calls.
+
+---
+
+### Day 80: 25 August 2025 (Monday)
+**Today's Progress:**
+- Explored the details of the **Oracle University Self-Paced Lab** subscription, understanding its purpose and different pricing models for hands-on practice.
+- Learned the steps for accessing the temporary OCI tenancy, including using the provided credentials, managing the assigned compartment, and ensuring the correct region.
+- Understood that while the subscription is convenient, most labs can be completed using a free OCI account, making the subscription optional for students.
+- Noted a critical tip to disable the new Redwood UI preview to ensure a consistent experience with the classic UI in the lab guides.
 
 ---
 

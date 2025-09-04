@@ -113,6 +113,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 78 | OCI AI Foundations: Vector Search & Select AI | [Day 78](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 79 | OCI AI Foundations: Core AI Services Deep Dive | [Day 79](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 80 | OCI Foundations: Lab Environment & Access | [Day 80](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 81 | OCI AI Foundations: Practice Exam & Review | [Day 81](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -1102,6 +1103,15 @@ Chapter 7 Completed
 - Learned the steps for accessing the temporary OCI tenancy, including using the provided credentials, managing the assigned compartment, and ensuring the correct region.
 - Understood that while the subscription is convenient, most labs can be completed using a free OCI account, making the subscription optional for students.
 - Noted a critical tip to disable the new Redwood UI preview to ensure a consistent experience with the classic UI in the lab guides.
+
+---
+
+### Day 81: 26 August 2025 (Tuesday)
+**Today's Progress:**
+- Completed the practice exam for the **Oracle Cloud Infrastructure 2025 AI Foundations Associate** certification, scoring a solid 85%.
+- Gained valuable insight into the exam's format and the types of questions to expect, confirming that it tests practical knowledge of services and hardware.
+- Encountered a question that highlighted the importance of understanding specific hardware for different workloads, such as selecting the **A100 GPU** for small to medium-scale AI training and inference.
+- The practice exam served as an excellent review of core AI fundamentals and OCI's AI services, boosting confidence for the actual certification.
 
 ---
 

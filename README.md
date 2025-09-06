@@ -114,6 +114,9 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 79 | OCI AI Foundations: Core AI Services Deep Dive | [Day 79](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 80 | OCI Foundations: Lab Environment & Access | [Day 80](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
 | 81 | OCI AI Foundations: Practice Exam & Review | [Day 81](https://www.notion.so/ankitchamke/Race-to-Certification-252ebb45282e802284a3c335e22e1b79?source=copy_link) |
+| 82 | UI/UX: Career Path & Job Strategy | [Day 82](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
+| 83 | UX Psychology: Mental Models & Human Behavior | [Day 83](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
+| 84 | UI/UX: The 6-Point Checklist to Stand Out | [Day 84](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
 
 *(This list will grow as the challenge progresses...)*
 
@@ -1112,6 +1115,36 @@ Chapter 7 Completed
 - Gained valuable insight into the exam's format and the types of questions to expect, confirming that it tests practical knowledge of services and hardware.
 - Encountered a question that highlighted the importance of understanding specific hardware for different workloads, such as selecting the **A100 GPU** for small to medium-scale AI training and inference.
 - The practice exam served as an excellent review of core AI fundamentals and OCI's AI services, boosting confidence for the actual certification.
+
+---
+
+### Day 82: 27 August 2025 (Wednesday)
+**Today's Progress:**
+- Gained a comprehensive overview of the UI/UX design career, from initial prerequisites to advanced job strategies.
+- Learned the key distinction between **tool skills** (like mastering Figma) and the more crucial **theoretical knowledge** of design thinking and UX principles.
+- Explored the importance of building a strong portfolio with hands-on projects and case studies, understanding that practical skills are valued more than certifications.
+- Gained valuable insights into the job market, including typical salary ranges for various experience levels and tips for networking and job applications.
+- Understood how to leverage modern tools like AI for problem-solving and ideation in the design process, and how to stay ahead by exploring emerging domains.
+
+---
+
+### Day 83: 28 August 2025 (Thursday)
+**Today's Progress:**
+- Learned the fundamentals of **UX Psychology** and the importance of understanding human behavior to design effective products.
+- Explored several key mental models and psychological effects, including the **Goal Gradient Effect** (using progress to increase motivation) and **Induced Scarcity** (making something seem more valuable when it's rare).
+- Understood how to apply these concepts in design through real-world examples like **gamification**, using visual memory for better recall, and ensuring a **Certainty Effect** for user trust.
+- Gained a new perspective on design, realizing it's not just about aesthetics but about how people think and make decisions.
+
+---
+
+### Day 84: 29 August 2025 (Friday)
+**Today's Progress:**
+- Learned a 6-point checklist for becoming a top 1% UX designer, focusing on strategies to stand out from the crowd.
+- Understood the importance of learning directly from official **documentation** rather than courses and building a personal knowledge base in Notion.
+- Gained insights on increasing professional visibility by consistently publishing work on platforms like **Medium** and connecting thoughtfully with industry leaders on **LinkedIn**.
+- Absorbed the core principle of prioritizing **function over aesthetics**, focusing on efficiency and scalability in design.
+- Learned to refine my design eye by consuming great experiences in the real world and studying the success patterns of popular apps.
+- Developed an **action plan** to apply these principles, including creating a notes hub, analyzing successful products, and improving my online presence.
 
 ---
 

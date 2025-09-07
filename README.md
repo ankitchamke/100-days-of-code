@@ -117,7 +117,7 @@ which I discovered through [Ayush Bante's](https://github.com/ayushAB) GitHub re
 | 82 | UI/UX: Career Path & Job Strategy | [Day 82](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
 | 83 | UX Psychology: Mental Models & Human Behavior | [Day 83](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
 | 84 | UI/UX: The 6-Point Checklist to Stand Out | [Day 84](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link) |
-
+| 85 | UI | [Day 85](https://www.notion.so/ankitchamke/UI-UX-AI-Tools-Mastery-Roadmap-Learning-Notion-24eebb45282e80f59258cfd01426436a?source=copy_link)|
 *(This list will grow as the challenge progresses...)*
 
 ---
